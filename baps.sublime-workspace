@@ -35,7 +35,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7070,
+				"buffer_size": 3867,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +43,7 @@
 			"file": "_header.html",
 			"settings":
 			{
-				"buffer_size": 381,
+				"buffer_size": 340,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,7 +67,7 @@
 			"file": "_footer.html",
 			"settings":
 			{
-				"buffer_size": 791,
+				"buffer_size": 731,
 				"line_ending": "Unix"
 			}
 		}
@@ -112,13 +112,13 @@
 	},
 	"file_history":
 	[
-		"/Users/chadwtaylor/Desktop/BAPS/js/main.js",
-		"/Users/chadwtaylor/Desktop/BAPS/guidelines.html",
-		"/Users/chadwtaylor/Desktop/BAPS/_head.html",
-		"/Users/chadwtaylor/Desktop/BAPS/_header.html",
-		"/Users/chadwtaylor/Desktop/BAPS/_footer.html",
-		"/Users/chadwtaylor/Desktop/BAPS/css/main.css",
-		"/Users/chadwtaylor/Desktop/BAPS/js/jquery.1-7-1.min.js",
+		"/Users/chadwtaylor/Dropbox/web_projects/BAPS/js/main.js",
+		"/Users/chadwtaylor/Dropbox/web_projects/BAPS/guidelines.html",
+		"/Users/chadwtaylor/Dropbox/web_projects/BAPS/_head.html",
+		"/Users/chadwtaylor/Dropbox/web_projects/BAPS/_header.html",
+		"/Users/chadwtaylor/Dropbox/web_projects/BAPS/_footer.html",
+		"/Users/chadwtaylor/Dropbox/web_projects/BAPS/css/main.css",
+		"/Users/chadwtaylor/Dropbox/web_projects/BAPS/js/jquery.1-7-1.min.js",
 		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/layouts/account.html.haml",
 		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/doc/NeoTech Font/MyFonts Order M3637536.mpkg/Contents/Resources/English.lproj/Description.plist",
 		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/_bids.html.haml",
@@ -247,7 +247,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"-*.sublime*, -*.log, -jquery*.*",
@@ -426,15 +426,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 7070,
+						"buffer_size": 3867,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1229,
-								1229
+								1000,
+								1000
 							]
 						],
 						"settings":
@@ -453,7 +453,7 @@
 					"file": "_header.html",
 					"settings":
 					{
-						"buffer_size": 381,
+						"buffer_size": 340,
 						"regions":
 						{
 						},
@@ -520,8 +520,8 @@
 						"selection":
 						[
 							[
-								3141,
-								3141
+								3140,
+								3140
 							]
 						],
 						"settings":
@@ -540,15 +540,15 @@
 					"file": "_footer.html",
 					"settings":
 					{
-						"buffer_size": 791,
+						"buffer_size": 731,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								791,
-								791
+								0,
+								0
 							]
 						],
 						"settings":
@@ -567,15 +567,15 @@
 					"file": "_header.html",
 					"settings":
 					{
-						"buffer_size": 381,
+						"buffer_size": 340,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								166,
-								166
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1166,7 +1166,7 @@
 		[
 			[
 				"",
-				"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee-api/linguabee-api.sublime-project"
+				"/Users/chadwtaylor/Dropbox/web_projects/thoughtmatrix/lsi_redesign/development/prototype/lsi_redesign.sublime-project"
 			],
 			[
 				"hive",
