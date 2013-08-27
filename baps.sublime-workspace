@@ -1,0 +1,1252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bi",
+				"bi: background-image: url"
+			],
+			[
+				"color",
+				"color: color: hex"
+			],
+			[
+				"background",
+				"background: background-attachment: scroll/fixed"
+			],
+			[
+				"padd",
+				"padding: padding: V H"
+			],
+			[
+				"bor",
+				"border: border-width: size"
+			],
+			[
+				"font",
+				"font: font-family: family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7070,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_header.html",
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "guidelines.html",
+			"settings":
+			{
+				"buffer_size": 11137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 3936,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_footer.html",
+			"settings":
+			{
+				"buffer_size": 791,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"open file",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 400.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chadwtaylor/Desktop/BAPS/js/main.js",
+		"/Users/chadwtaylor/Desktop/BAPS/guidelines.html",
+		"/Users/chadwtaylor/Desktop/BAPS/_head.html",
+		"/Users/chadwtaylor/Desktop/BAPS/_header.html",
+		"/Users/chadwtaylor/Desktop/BAPS/_footer.html",
+		"/Users/chadwtaylor/Desktop/BAPS/css/main.css",
+		"/Users/chadwtaylor/Desktop/BAPS/js/jquery.1-7-1.min.js",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/layouts/account.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/doc/NeoTech Font/MyFonts Order M3637536.mpkg/Contents/Resources/English.lproj/Description.plist",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/_bids.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/bids.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/new/billing.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/gigs_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/javascripts/globals/main.js.coffee",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/helpers/application_helper.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/elements/forms/_certification.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/config/config.yml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/gig.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/gigs/new_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/elements/forms/_invoice.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/invoices/finalize.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/_posted_gig.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/config/routes.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/globals/main.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/settings/account.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/dashboard.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/application_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/bid.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/service.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/vendor.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/pages/vendors.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/vendors/settings.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/settings_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/pages/services.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/rate.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/new/purchase_order.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/new/languages.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/show.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/javascripts/invoices.js.coffee",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/vendors/login.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/config/application.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/users_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/vendors/link_user_confirmation.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/layouts/main.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/vendors_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee-api/config/application.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/new/schedule.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/layouts/_header.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/new/review.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/new/accounts.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/globals/branding_guide.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/credit_card.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/assignment.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/add_awarders.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/_posted_gigs.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/person.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/awarder.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/add_awarder.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/globals/messages.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/application_model.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/layouts/_footer.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/layouts/settings.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/users/change_password.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/vendors/index.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/config/initializers/mixins.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee-api/app/controllers/personnel_permission_types_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/personnel_permission_type.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/pages/settings.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/personnel.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/oops_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/vendors/summary.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/settings/services.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/globals/header.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/settings/profile.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/personnel_type.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/vendors/created.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/vendors/new.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/users/new.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/application.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/vendors/ask_link_user.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/vendor_type.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/invoices/_slip.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/slip.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/pages/invoices.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/invoice.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/globals/footer.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/invoices_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/slip_type.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/about_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/about/index.html.haml",
+		"/Users/chadwtaylor/.ssh/config",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/services/new/language.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/javascripts/application.js",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/javascripts/invoices.coffee.js",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/globals/buttons.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/pages/oops.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/users/services_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/users/_show_service.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/settings/services/items/_service.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/models/schedule.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/pages/settings/services.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee-api/Rakefile",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/_posted_bids.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/gigs/bids_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/users/bids_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/services_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/pages/gigs/bids.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/users/assignments_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/new/summary.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/elements/forms/_rates_fields.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/elements/forms/_rates.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/elements/forms/_contact.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/users/show.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/services/rates_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/elements/forms/_thematic.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/users/certifications_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/settings/services/items/_speciality.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/services/new_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/users/specialities_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/services/new/done.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/services/new/review.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/services/new/languages.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/gigs/new/_schedule_review.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/settings/services/items/_certification.html.haml",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/users/contacts_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/controllers/users/educations_controller.rb",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/assets/stylesheets/pages/services/new.css.sass",
+		"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee/app/views/users/_show_portfolio.html.haml"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"-*.sublime*, -*.log, -jquery*.*",
+			"-*.sublime*, -*.log, -jquery*.js",
+			"-*.sublime*, -*.log",
+			"-*.sublime*",
+			"-*.workspace*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"BAPS Event",
+			"main",
+			"\n	",
+			"width",
+			"login",
+			"button_submit",
+			".button_submit",
+			"button_submit",
+			"form_tag",
+			".todo",
+			"last_four",
+			"withdraw_gig",
+			"bids_closed",
+			"Withdraw from entire",
+			"put(",
+			"= form",
+			"to_model",
+			"@user.get",
+			"to_model",
+			"Submitting your",
+			"currency",
+			"Submitting your",
+			"Your Bids",
+			"invoice",
+			"load_globals",
+			"email_check",
+			"submit_redirect_to",
+			"link_user_con",
+			"get_error_messages",
+			"message",
+			"your personal",
+			"location",
+			"address",
+			".create",
+			"message_bar",
+			"message_bar(",
+			"done",
+			"Get an interpreter",
+			"Add Awarders",
+			"decision",
+			"Dashboard",
+			"add_awa",
+			"Confirmation needed",
+			"confirmation needed",
+			"You have an",
+			"You have an in",
+			"created_by",
+			"Account Pref",
+			"create",
+			"personnel_type",
+			"personnel_types",
+			"PersonnelType",
+			"p.",
+			"through",
+			"You have",
+			".account",
+			".item.account",
+			"namespace",
+			"Account Prefs",
+			"fonts",
+			".put",
+			"put",
+			"form",
+			"fonts",
+			"google",
+			"Account Prefs",
+			"account prefs",
+			"$(function",
+			"Created",
+			"users/login",
+			"show_root_parents",
+			"thematics",
+			"royalty_fee",
+			"[data-royalty]",
+			"%",
+			"none",
+			"invoice",
+			".add_slip",
+			"slips",
+			"Open",
+			"museo",
+			"font-family",
+			"background",
+			"Help",
+			"grand",
+			"return",
+			"slip",
+			"row",
+			"royalty_fee",
+			"sum",
+			"service_fee",
+			"console.log",
+			"red",
+			"padding",
+			"update",
+			"color",
+			"form_tag",
+			"action_path",
+			"form_tag",
+			"logo",
+			"per hour",
+			"/ per hour",
+			"Wrap up",
+			"bid",
+			"Bid for this gig",
+			"bid for this gig",
+			"per hour",
+			"r.",
+			"per hour",
+			"Language: EN",
+			"Resque",
+			"resque",
+			".col.left",
+			"Dashboard",
+			".col.left",
+			"Account",
+			"Account |",
+			"loaded @gig",
+			"invoice_assigned",
+			"sched",
+			".login",
+			"subheader",
+			"background: url",
+			"Entitlement",
+			"text-shadow",
+			"arial",
+			"font-family",
+			"centerize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"personnel_permission_types",
+			"bid",
+			"Bid",
+			"Bidder",
+			"Bidders",
+			"bidder",
+			"bidders",
+			"bidder",
+			"bidders",
+			"@"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 7070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1229,
+								1229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 401.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_header.html",
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "guidelines.html",
+					"settings":
+					{
+						"buffer_size": 11137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2430,
+								2430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 2.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 3936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3141,
+								3141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3105.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_footer.html",
+					"settings":
+					{
+						"buffer_size": 791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								791,
+								791
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_header.html",
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 498.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"head",
+				"_header.html"
+			],
+			[
+				"foot",
+				"_footer.html"
+			],
+			[
+				"gide",
+				"guidelines.html"
+			],
+			[
+				"js",
+				"js/main.js"
+			],
+			[
+				"headerht",
+				"_header.html"
+			],
+			[
+				"cs",
+				"css/main.css"
+			],
+			[
+				"jque",
+				"js/jquery.1-7-1.min.js"
+			],
+			[
+				"guide",
+				"guidelines.html"
+			],
+			[
+				"css",
+				"css/main.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"userlog",
+				"app/views/users/login.html.haml"
+			],
+			[
+				"apphe",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"footerh",
+				"app/views/layouts/_footer.html.haml"
+			],
+			[
+				"loginh",
+				"app/views/layouts/login.html.haml"
+			],
+			[
+				"maincss",
+				"app/assets/stylesheets/globals/main.css.sass"
+			],
+			[
+				"user",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"accou",
+				"app/views/layouts/account.html.haml"
+			],
+			[
+				"postedgig",
+				"app/views/gigs/_posted_gig.html.haml"
+			],
+			[
+				"forminvo",
+				"app/views/elements/forms/_invoice.html.haml"
+			],
+			[
+				"gig_bi",
+				"app/views/gigs/_bids.html.haml"
+			],
+			[
+				"gigbid",
+				"app/views/gigs/bids.html.haml"
+			],
+			[
+				"invoicefin",
+				"app/views/invoices/finalize.html.haml"
+			],
+			[
+				"_bid",
+				"app/views/gigs/_bids.html.haml"
+			],
+			[
+				"mainjs",
+				"app/assets/javascripts/globals/main.js.coffee"
+			],
+			[
+				"apphelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"appctrl",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"confym",
+				"config/config.yml"
+			],
+			[
+				"gigrb",
+				"app/models/gig.rb"
+			],
+			[
+				"bids",
+				"app/views/gigs/bids.html.haml"
+			],
+			[
+				"gignewctr",
+				"app/controllers/gigs/new_controller.rb"
+			],
+			[
+				"billing",
+				"app/views/gigs/new/billing.html.haml"
+			],
+			[
+				"gigctrl",
+				"app/controllers/gigs_controller.rb"
+			],
+			[
+				"settacc",
+				"app/views/settings/account.html.haml"
+			],
+			[
+				"gig",
+				"app/models/gig.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"dashboar",
+				"app/views/gigs/dashboard.html.haml"
+			],
+			[
+				"gignewctrl",
+				"app/controllers/gigs/new_controller.rb"
+			],
+			[
+				"appctl",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"settctr",
+				"app/controllers/settings_controller.rb"
+			],
+			[
+				"bidrb",
+				"app/models/bid.rb"
+			],
+			[
+				"_postedgig",
+				"app/views/gigs/_posted_gig.html.haml"
+			],
+			[
+				"dashboard",
+				"app/views/gigs/dashboard.html.haml"
+			],
+			[
+				"formsinvo",
+				"app/views/elements/forms/_invoice.html.haml"
+			],
+			[
+				"gigbids",
+				"app/views/gigs/bids.html.haml"
+			],
+			[
+				"vendorcss",
+				"app/assets/stylesheets/pages/vendors.css.sass"
+			],
+			[
+				"servicecss",
+				"app/assets/stylesheets/pages/services.css.sass"
+			],
+			[
+				"rate",
+				"app/models/rate.rb"
+			],
+			[
+				"vendor",
+				"app/models/vendor.rb"
+			],
+			[
+				"serv",
+				"app/models/service.rb"
+			],
+			[
+				"vendorsett",
+				"app/views/vendors/settings.html.haml"
+			],
+			[
+				"gigshow",
+				"app/views/gigs/show.html.haml"
+			],
+			[
+				"langua",
+				"app/views/gigs/new/languages.html.haml"
+			],
+			[
+				"purchas",
+				"app/views/gigs/new/purchase_order.html.haml"
+			],
+			[
+				"invoicejs",
+				"app/assets/javascripts/invoices.js.coffee"
+			],
+			[
+				"invoicfina",
+				"app/views/invoices/finalize.html.haml"
+			],
+			[
+				"gignew",
+				"app/views/gigs/new/billing.html.haml"
+			],
+			[
+				"gig/lang",
+				"app/views/gigs/new/languages.html.haml"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"vendorc",
+				"app/controllers/vendors_controller.rb"
+			],
+			[
+				"vendorlog",
+				"app/views/vendors/login.html.haml"
+			],
+			[
+				"apprb",
+				"config/application.rb"
+			],
+			[
+				"appc",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"uc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"mainhtml",
+				"app/views/layouts/main.html.haml"
+			],
+			[
+				"brand",
+				"app/assets/stylesheets/globals/branding_guide.sass"
+			],
+			[
+				"headerhtml",
+				"app/views/layouts/_header.html.haml"
+			],
+			[
+				"cred",
+				"app/models/credit_card.rb"
+			],
+			[
+				"sche",
+				"app/views/gigs/new/schedule.html.haml"
+			],
+			[
+				"mainht",
+				"app/views/layouts/main.html.haml"
+			],
+			[
+				"vendorrb",
+				"app/models/vendor.rb"
+			],
+			[
+				"newrevie",
+				"app/views/gigs/new/review.html.haml"
+			],
+			[
+				"gignewacc",
+				"app/views/gigs/new/accounts.html.haml"
+			],
+			[
+				"ass",
+				"app/models/assignment.rb"
+			],
+			[
+				"",
+				"app/views/gigs/_posted_gig.html.haml"
+			],
+			[
+				"gigsho",
+				"app/views/gigs/show.html.haml"
+			],
+			[
+				"dashboa",
+				"app/views/gigs/dashboard.html.haml"
+			],
+			[
+				"addawa",
+				"app/views/gigs/add_awarders.html.haml"
+			],
+			[
+				"brandsas",
+				"app/assets/stylesheets/globals/branding_guide.sass"
+			],
+			[
+				"award",
+				"app/models/awarder.rb"
+			],
+			[
+				"userctl",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"addawar",
+				"app/views/gigs/add_awarder.html.haml"
+			],
+			[
+				"messacss",
+				"app/assets/stylesheets/globals/messages.css.sass"
+			],
+			[
+				"userctrl",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"gigctl",
+				"app/controllers/gigs_controller.rb"
+			],
+			[
+				"appmo",
+				"app/models/application_model.rb"
+			],
+			[
+				"mixin",
+				"config/initializers/mixins.rb"
+			],
+			[
+				"persorb",
+				"app/models/person.rb"
+			],
+			[
+				"viewchang",
+				"app/views/users/change_password.html.haml"
+			],
+			[
+				"usectrl",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"footer",
+				"app/views/layouts/_footer.html.haml"
+			],
+			[
+				"vendorctl",
+				"app/controllers/vendors_controller.rb"
+			],
+			[
+				"vendsett",
+				"app/views/vendors/settings.html.haml"
+			],
+			[
+				"apphel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"oo",
+				"app/controllers/oops_controller.rb"
+			],
+			[
+				"usercont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"vendorb",
+				"app/models/vendor.rb"
+			],
+			[
+				"personn",
+				"app/models/personnel.rb"
+			],
+			[
+				"settcss",
+				"app/assets/stylesheets/pages/settings.css.sass"
+			],
+			[
+				"layoutset",
+				"app/views/layouts/settings.html.haml"
+			],
+			[
+				"stygu",
+				"app/assets/stylesheets/globals/branding_guide.sass"
+			],
+			[
+				"personntyp",
+				"app/models/personnel_type.rb"
+			],
+			[
+				"mix",
+				"config/initializers/mixins.rb"
+			],
+			[
+				"perstyp",
+				"app/models/personnel_type.rb"
+			],
+			[
+				"settserv",
+				"app/views/settings/services.html.haml"
+			],
+			[
+				"settprof",
+				"app/views/settings/profile.html.haml"
+			],
+			[
+				"settctrl",
+				"app/controllers/settings_controller.rb"
+			],
+			[
+				"usercontr",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"vendorlogi",
+				"app/views/vendors/login.html.haml"
+			],
+			[
+				"appcss",
+				"app/assets/stylesheets/application.css.sass"
+			],
+			[
+				"maincs",
+				"app/assets/stylesheets/globals/main.css.sass"
+			],
+			[
+				"vendcss",
+				"app/assets/stylesheets/pages/vendors.css.sass"
+			],
+			[
+				"linkusecno",
+				"app/views/vendors/link_user_confirmation.html.haml"
+			],
+			[
+				"headehtml",
+				"app/views/layouts/_header.html.haml"
+			],
+			[
+				"usernew",
+				"app/views/users/new.html.haml"
+			],
+			[
+				"vendorct",
+				"app/controllers/vendors_controller.rb"
+			],
+			[
+				"headercss",
+				"app/assets/stylesheets/globals/header.css.sass"
+			],
+			[
+				"vendnew",
+				"app/views/vendors/new.html.haml"
+			],
+			[
+				"vendorctrl",
+				"app/controllers/vendors_controller.rb"
+			],
+			[
+				"finalihtml",
+				"app/views/invoices/finalize.html.haml"
+			],
+			[
+				"invoicehtml",
+				"app/views/elements/forms/_invoice.html.haml"
+			],
+			[
+				"_slip",
+				"app/views/invoices/_slip.html.haml"
+			],
+			[
+				"finali",
+				"app/views/invoices/finalize.html.haml"
+			],
+			[
+				"footercss",
+				"app/assets/stylesheets/globals/footer.css.sass"
+			],
+			[
+				"footerhtm",
+				"app/views/layouts/_footer.html.haml"
+			],
+			[
+				"sliptyp",
+				"app/models/slip_type.rb"
+			],
+			[
+				"invctl",
+				"app/controllers/invoices_controller.rb"
+			],
+			[
+				"_sli",
+				"app/views/invoices/_slip.html.haml"
+			],
+			[
+				"slip",
+				"app/models/slip.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/chadwtaylor/Dropbox/web_projects/honey/linguabee-api/linguabee-api.sublime-project"
+			],
+			[
+				"hive",
+				"/Users/chadwtaylor/Dropbox/web_projects/honey/hive/hive.sublime-project"
+			],
+			[
+				"tma",
+				"/Applications/MAMP/htdocs/tmatrix/tmatrix.sublime-project"
+			],
+			[
+				"z",
+				"/Users/chadwtaylor/Dropbox/web_projects/zvrs/desktop/zvrs_desktop.sublime-project"
+			],
+			[
+				"equ",
+				"/Library/WebServer/Documents/thoughtmatrix/equinix_refresh/equinix-refresh.sublime-project"
+			],
+			[
+				"cage",
+				"/Users/chadwtaylor/Dropbox/web_projects/cagescore/cagescore/cagescore.sublime-project"
+			],
+			[
+				"gae",
+				"/Users/chadwtaylor/Dropbox/web_projects/thoughtmatrix/gae_atmosphere_on_tour_python/google_aot.sublime-project"
+			],
+			[
+				"gat",
+				"/Users/chadwtaylor/Dropbox/web_projects/thoughtmatrix/gae_atmosphere_on_tour_python/google_aot.sublime-project"
+			],
+			[
+				"sand",
+				"/Users/chadwtaylor/Dropbox/web_projects/chadwtaylor/sandbox/chadwtaylor-sandbox.sublime-project"
+			],
+			[
+				"pep",
+				"/Users/chadwtaylor/Dropbox/web_projects/thoughtmatrix/pepnet_db/pepnet_db.sublime-project"
+			],
+			[
+				"pepn",
+				"/Users/chadwtaylor/Dropbox/web_projects/thoughtmatrix/pepnet_db/pepnet_db.sublime-project"
+			],
+			[
+				"rapi",
+				"/Users/chadwtaylor/Dropbox/web_projects/thoughtmatrix/ruckus-api/ruckus-api.sublime-project"
+			],
+			[
+				"rucsupp",
+				"/Users/chadwtaylor/Dropbox/web_projects/thoughtmatrix/ruckus-support/ruckus-support.sublime-project"
+			],
+			[
+				"ruck",
+				"/Users/chadwtaylor/Dropbox/web_projects/thoughtmatrix/ruckus-support-2/ruckus.sublime-project"
+			],
+			[
+				"api",
+				"/Users/chadwtaylor/Dropbox/web_projects/thoughtmatrix/ruckus-api/ruckus-api.sublime-project"
+			],
+			[
+				"hon",
+				"/Users/chadwtaylor/Dropbox/web_projects/honey/honey_api/honey-api.sublime-project"
+			],
+			[
+				"hapi",
+				"/Users/chadwtaylor/Dropbox/web_projects/honey/honey_api/honey-api.sublime-project"
+			],
+			[
+				"honeyapi",
+				"/Users/chadwtaylor/Dropbox/web_projects/honey/honey_api/honey-api.sublime-project"
+			],
+			[
+				"hap",
+				"/Users/chadwtaylor/Dropbox/web_projects/honey/honey_api/honey-api.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true
+}
