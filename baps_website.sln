@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "baps_website", "baps_website.phpproj", "{47646352-4EE2-4F47-B18C-E1D46E43AC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Local|PHP 5.4 = Local|PHP 5.4
+		Production|PHP 5.4 = Production|PHP 5.4
+		Staging|PHP 5.4 = Staging|PHP 5.4
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47646352-4EE2-4F47-B18C-E1D46E43AC8D}.Local|PHP 5.4.ActiveCfg = Local|PHP 5.4
+		{47646352-4EE2-4F47-B18C-E1D46E43AC8D}.Local|PHP 5.4.Deploy.0 = Local|PHP 5.4
+		{47646352-4EE2-4F47-B18C-E1D46E43AC8D}.Production|PHP 5.4.ActiveCfg = Production|PHP 5.4
+		{47646352-4EE2-4F47-B18C-E1D46E43AC8D}.Production|PHP 5.4.Deploy.0 = Production|PHP 5.4
+		{47646352-4EE2-4F47-B18C-E1D46E43AC8D}.Staging|PHP 5.4.ActiveCfg = Staging|PHP 5.4
+		{47646352-4EE2-4F47-B18C-E1D46E43AC8D}.Staging|PHP 5.4.Deploy.0 = Staging|PHP 5.4
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

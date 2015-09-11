@@ -68,6 +68,11 @@ p {
 	margin-top: 10px;
 }
 
+a {
+	color: white;
+}
+
+
 .left{ float: left; }
 
 section.page {
@@ -81,14 +86,14 @@ section#top, section#bottom {
 	color: #FBFADE;
 }
 
-header #logo {
+#logo {
 	float: left;
 	background: url("../images/baps_logo.png") no-repeat;
 	width: 311px;
 	height: 67px;
 }
 
-header nav {
+nav {
 	float: right;
 	margin-top: 24px;
 }
@@ -110,6 +115,7 @@ section#top {
 
 section#bottom {
 	background-color: #094B06;
+    padding-bottom: 15px;
 }
 
 section#bottom .box {

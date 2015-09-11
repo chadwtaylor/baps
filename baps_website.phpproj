@@ -1,0 +1,366 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.4"
+    {
+    }
+    "Staging|PHP 5.4"
+    {
+    }
+    "Production|PHP 5.4"
+    {
+    }
+}
+"Files"
+{
+    "css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\main.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "downloads"
+    {
+    "ProjRelPath" = "T"
+    }
+    "downloads\\baps_history.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "downloads\\BAPSchampions.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "downloads\\cash_distribution.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "downloads\\guidelines.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "downloads\\guidelines_20121029.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "downloads\\guidelines_20130902.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "downloads\\season8"
+    {
+    "ProjRelPath" = "T"
+    }
+    "guidelines.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\baps_logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\Facebook_icon.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "images\\season-8"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "pointscalculator.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\downloads"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\downloads\\baps_history.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\downloads\\season5"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\downloads\\season5\\baps_season5_points_and_cash.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\downloads\\season5\\baps_season5_results.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\downloads\\season5\\baps_season5_standings.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\images\\baps_logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\images\\Facebook_icon.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\images\\group-pix"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\images\\group-pix\\baps-1.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\images\\group-pix\\baps-2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\images\\group-pix\\baps-3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\images\\group-pix\\baps-4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\images\\group-pix\\baps-5.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season5\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads\\baps_history.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads\\season6"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads\\season6\\baps-season6-event1.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads\\season6\\baps-season6-event2.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads\\season6\\baps-season6-event3.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads\\season6\\baps-season6-event4.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads\\season6\\baps-season6-event5.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads\\season6\\baps-season6-event6.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\downloads\\season6\\baps_season6_results.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\baps_logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\Facebook_icon.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\pokerface.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\royalflush.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\season-6"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\season-6\\baps-1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\season-6\\baps-2.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\season-6\\baps-3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\season-6\\baps-4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\sfdc.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\images\\sunglasses.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season6\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\baps_history.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\BAPSchampions.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\cash_distribution.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\guidelines.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\guidelines_20121029.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\guidelines_20130902.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\LogiDPPApp.lnk"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\season7"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\season7\\baps-season7-event6.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\season7\\baps_season7_results.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\downloads\\season7\\Season7FreeRoll.pdf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\baps_logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\Facebook_icon.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\season-7"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\season-7\\baps-1.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\season-7\\baps-2.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\season-7\\baps-3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\season-7\\baps-4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\season-7\\baps-5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\season-7\\baps-6.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\season-7\\season7champ.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\images\\sfdc.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "season7\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
