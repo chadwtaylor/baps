@@ -74,6 +74,7 @@ a {
 
 
 .left{ float: left; }
+.right{ float: right; }
 
 section.page {
 	padding: 5px;
