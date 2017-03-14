@@ -367,7 +367,7 @@
     				<a href="downloads/cash_distribution.pdf" target="_blank">Cash Distribution</a>
     				<a href="downloads/MostBAPSTourneyWins.pdf" target="_blank">Most BAPS Tourney Wins</a>
     				<a href="downloads/baps_history.pdf" target="_blank">Player History</a>
-    				<a href="downloads/guidelines.pdf" target="_blank">Guidelines</a>
+    				<a href="downloads/guidelines9.pdf" target="_blank">Guidelines</a>
     				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
                 </p>
 			</nav>
