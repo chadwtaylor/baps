@@ -18,14 +18,56 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season9/baps-season9-event5.pdf" target="_blank">Season 9 - Event 5 Results</a>
+				<a href="downloads/season9/baps-season9-event6.pdf" target="_blank">Season 9 - Event 6 Results</a>
 				<a href="downloads/season9/baps-season9.pdf" target="_blank">Season 9 Points</a>
 				<a href="downloads/guidelines9.pdf" target="_blank">Guidelines</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
-
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-9/season9event6.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 9, Event 6 Winners</h1>
+			<p>
+				<div class="left schedule">
+                    1st - Ted Baldwin
+					<br />
+                    2nd - Damira Bechthold
+					<br />
+                    3rd - Sulghi Hong
+					<br />
+                    4th - Joshua Weinstock
+					<br />
+                    5th - Mike Sidansky
+					<br />
+                    6th - Bob Officer
+					<br />
+                    7th - David Weiss
+					<br />
+                    8th - Julia Hong
+					<br />
+                    9th - Mike Scharnow
+				</div>
+                Total players: 38
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-9/nathan.png" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season #9 Champion!</h1>
+			<h1>Nathan Montoya</h1>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
@@ -339,7 +381,7 @@
 				<br>
 				<span class="completed">Event 5: March 11, 2017</span>
 				<br>
-				<span class="next">Event 6: May 6, 2017</span>
+				<span class="completed">Event 6: May 6, 2017</span>
 
 				<br>
 				<br>
