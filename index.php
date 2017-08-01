@@ -18,8 +18,10 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season9/baps-season9-event6.pdf" target="_blank">Season 9 - Event 6 Results</a>
-				<a href="downloads/season9/baps-season9.pdf" target="_blank">Season 9 Points</a>
+            <!--
+				<a href="downloads/season10/baps-season10-event1.pdf" target="_blank">Season 9 - Event 6 Results</a>
+				<a href="downloads/season10/baps-season10.pdf" target="_blank">Season 9 Points</a>
+            -->
 				<a href="downloads/guidelines9.pdf" target="_blank">Guidelines</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
@@ -29,247 +31,9 @@
 		<section class="page clearfix">
 			<br />
 			<br />
-			<img src="images/season-9/season9event6.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 9, Event 6 Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Ted Baldwin
-					<br />
-                    2nd - Damira Bechthold
-					<br />
-                    3rd - Sulghi Hong
-					<br />
-                    4th - Joshua Weinstock
-					<br />
-                    5th - Mike Sidansky
-					<br />
-                    6th - Bob Officer
-					<br />
-                    7th - David Weiss
-					<br />
-                    8th - Julia Hong
-					<br />
-                    9th - Mike Scharnow
-				</div>
-                Total players: 38
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-9/nathan.png" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season #9 Champion!</h1>
-			<h1>Nathan Montoya</h1>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-9/season9event5.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 9, Event 5 Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Bob Officer
-					<br />
-                    2nd - Elvis Zornoza
-					<br />
-                    3rd - Stanley Matsumoto
-					<br />
-                    4th - Darla Holmes
-					<br />
-                    5th - Bill Ash
-					<br />
-                    6th - Don Lee Hanaumi
-					<br />
-                    7th - Austin Miller
-					<br />
-                    8th - Eric Kunze
-					<br />
-                    9th - Matthew Anderson
-				</div>
-                Total players: 48
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-9/season9event4.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 9, Event 4 Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Nathan Montoya
-					<br />
-                    2nd - Eric Kunze
-					<br />
-                    3rd - Ty Kovacs
-					<br />
-                    4th - Mikhail Chirkin
-					<br />
-                    5th - Adam Jarashow
-					<br />
-                    6th - Jim Donaldson
-					<br />
-                    7th - Damira Bechthold
-					<br />
-                    8th - Wayne Miller
-					<br />
-                    9th - Joey Baer
-				</div>
-                Total players:42 
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-9/season9event3.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 9, Event 3 Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Jerry Grigsby
-					<br />
-                    2nd - Ty Kovacs
-					<br />
-                    3rd - Abe Selzer
-					<br />
-                    4th - Ted Baldwin
-					<br />
-                    5th - Mikhail Chirkin
-					<br />
-                    6th - Adam Jarashow
-					<br />
-                    7th - JR Goff
-					<br />
-                    8th - Darla Holmes
-					<br />
-                    9th - David Smario
-				</div>
-                Total players: 38
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-9/season9sfdc.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 9, SFDC Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Damira Bechthold
-					<br />
-                    2nd - Mike gay
-					<br />
-                    3rd - Pat Woo
-					<br />
-                    4th - Ty Kovacs
-					<br />
-                    5th - Don Lee Hanaumi
-					<br />
-                    6th - Charles Farr
-					<br />
-                    7th - Mikkail Chirkin
-					<br />
-                    8th - Artrud Tellander
-					<br />
-                    9th - Darla Holmes
-				</div>
-                Total players: 45
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-9/season9event2.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 9, Event 2 Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Nathan Montoya
-					<br />
-                    2nd - Mikkail Chirkin
-					<br />
-                    3rd - Mike Scharnow
-					<br />
-                    4th - Abe Selzer
-					<br />
-                    5th - Elizabeth Grigsby
-					<br />
-                    6th - Jason Hom
-					<br />
-                    7th - Clark Brooke
-					<br />
-                    8th - Jeff Bibb
-					<br />
-                    9th - Michael Sidansky
-				</div>
-                Total players: 44
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-9/season9event1.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 9, Event 1 Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Richard Apple
-					<br />
-                    2nd - Abe Selzer 
-					<br />
-                    3rd - Julia Hong
-					<br />
-                    4th - Mike Sidansky
-					<br />
-                    5th - Adam Jarashow
-					<br />
-                    6th - Jeremy Beaver
-					<br />
-                    7th - Bert Enos
-					<br />
-                    8th - Nathan Montoya
-					<br />
-                    9th - Roman Starzak
-				</div>
-                Total players: 48
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-				<h1>Get ready for Season 9, August 2016 to June 2017</h1>
-				<h2>First event on Saturday, August 13, 2015!</h2>
+				<h1>Get ready for Season 10, August 2017 to June 2018</h1>
+				<h2>First event on Saturday, August 12, 2016!</h2>
                 <p>
-
-                    <b>What's new?</b>
-    				<br /><br />
                     &bullet; Doors will open at 4:30PM for registration.
     				<br />
                     &bullet; There will be $10,000 chips for <b>ALL PLAYERS</b> between 4:30PM and 5:00PM.
@@ -299,53 +63,13 @@
 		<section class="page clearfix">
 			<br />
 			<br />
-            <iframe class="left" width="560" height="315" src="https://www.youtube.com/embed/4jfq_0CnZVc" frameborder="0" allowfullscreen></iframe>
-			<p>
-				<div class="right schedule">
-                    <h1>
-                    What's new in Season 9?
-					<br />
-                    Vlog by Joey Baer
-                    </h1>
-				</div>
-			</p>
+			<img src="season9/images/season-9/nathan.png"/>
+			<h1>Congratulations to Season #9 Champion!</h1>
+			<h1>Nathan Montoya</h1>
 			<br />
 			<br />
 		</section>
 	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="season8/images/season-8/season8FreeRoll.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 8, Free Roll Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - David Smario
-					<br />
-                    2nd - PJ Ahern
-					<br />
-                    3rd - Elizabeth Grigsby
-					<br />
-                    4th - Jaime Jackerson
-					<br />
-                    5th - Jim Donaldson
-					<br />
-                    6th - Adam Jarashow
-					<br />
-                    7th - Jerry Grigsby
-					<br />
-                    8th - Bert Enos
-					<br />
-                    9th - Richard Apple, Sr.
-				</div>
-                Total players: 26
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-
 	<section id="bottom">
 		<section class="page clearfix">
 			<div class="box 1">
@@ -369,25 +93,25 @@
             <p>&nbsp;</p>
 			<div class="box 3">
 				<h2>Tournament Schedule</h2>
-				<span class="completed">Event 1: Aug 13, 2016</span> <!-- if completed, enter class="completed" -->
+				<span class="next">Event 1: Aug 12, 2017</span> <!-- if completed, enter class="completed" -->
 				<br>
-				<span class="completed">Event 2: Sep 10, 2016</span>
+				<span class="">Event 2: Sep 9, 2017 (pending FOG approval)</span>
 				<br>
-				<span class="completed"><a href="http://www.sfdeafclub.org/2016/09/14/sfdc-poker-2016" target="_blank">SFDC Tourney: Oct 8, 2016</a></span>
+				<span class="">Event 3: Oct 7, 2017 (pending FOG approval)</span>
 				<br>
-				<span class="completed">Event 3: Nov 12, 2016</span>
+				<span class="">SFDC Tourney: Nov 11, 2017 (pending FOG approval)</span>
 				<br>
-				<span class="completed">Event 4: Feb 4, 2017</span>
+				<span class="">Event 4: Jan 20, 2018 (pending FOG approval)</span>
 				<br>
-				<span class="completed">Event 5: March 11, 2017</span>
+				<span class="">Event 5: March 10, 2018 (pending FOG approval)</span>
 				<br>
-				<span class="completed">Event 6: May 6, 2017</span>
+				<span class="">Event 6: April 14, 2018 (pending FOG approval)</span>
 
 				<br>
 				<br>
 
-				<h2>Freeroll</h2>
-				<span class="next">June 10, 2017</span>
+				<h2>"Freeroll" ($20 entry fee)</h2>
+				<span class="">June 9, 2018</span>
 
 			</div>
 
@@ -400,6 +124,7 @@
 
 			<nav style="width: 100%; margin: 0px auto; text-align: center; padding-bottom: 0px;">
                 <p>
+    				<a href="season9">View Season 9</a>
     				<a href="season8">View Season 8</a>
     				<a href="season7">View Season 7</a>
     				<a href="season6">View Season 6</a>

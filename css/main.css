@@ -1,4 +1,4 @@
-//html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend, table, thead, tbody, tcell, tr, td,
@@ -79,8 +79,21 @@ a {
 section.page {
 	padding: 5px;
 	/*border: 1px dashed red;*/
-	width: 1000px;
+	max-width: 1000px;
 	margin: 0px auto;
+}
+
+section.page img 
+{
+    float:right;
+    margin: 0 0 10px 0;
+}
+@media only screen and (max-width: 768px) {
+    section.page img 
+    {
+        float: none;
+        margin: 0 0 10px 0;
+    }
 }
 
 section#top, section#bottom {
@@ -119,16 +132,25 @@ section#bottom {
     padding-bottom: 15px;
 }
 
-section#bottom .box {
-	float: left;
-	width: 300px;
-	margin-right: 30px;
-	font-size: 14px;
+@media only screen and (min-width: 987px) {
+    section#bottom .box {
+    	float: left;
+    	width: 300px;
+    	margin-right: 30px;
+    	font-size: 14px;
+    }
+    section#bottom .box:last-child {
+    	float: right;
+    	margin-right: 0px;
+    }
 }
-
-section#bottom .box:last-child {
-	float: right;
-	margin-right: 0px;
+@media only screen and (max-width: 986px) {
+    section#bottom .box 
+    {
+        float: none;
+    	width: 100%;
+    	margin-right: 0;
+    }
 }
 
 section#bottom .box h2 {
