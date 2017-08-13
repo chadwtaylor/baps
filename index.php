@@ -22,11 +22,35 @@
 				<a href="downloads/season10/baps-season10-event1.pdf" target="_blank">Season 9 - Event 6 Results</a>
 				<a href="downloads/season10/baps-season10.pdf" target="_blank">Season 9 Points</a>
             -->
-				<a href="downloads/guidelines9.pdf" target="_blank">Guidelines</a>
+				<a href="downloads/guidelines10.pdf" target="_blank">Guidelines - Season 10</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-10/season10event1.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 10, Event 1 Winners</h1>
+			<p>
+				<div class="left schedule">
+                    1st - Jaime Jackerson
+					<br />
+                    2nd - Darla Holmes
+					<br />
+                    3rd - Elizabeth Grigsby
+					<br />
+                    4th - Richard Apple
+					<br />
+                    5th - Eric Kunze
+				</div>
+                Total players: 27
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
@@ -86,26 +110,26 @@
 			<div class="box 2">
 				<h2>News</h2>
 				<p>
-					BAPS is now organized by a committee: Clark Brooke, David Smario, Joey Baer, Nathan Montoya, Eric Kunze, Jaime Jackerson, and Jerry Grigsby.
+					BAPS is now organized by a committee: Darla Holmes, Elizabeth Grigsby, David Harvey, Eric Kunze, Jaime Jackerson, Jerry Grigsby, and David Smario.
 				</p>
 				<p>Good luck!</p>
 			</div>
             <p>&nbsp;</p>
 			<div class="box 3">
 				<h2>Tournament Schedule</h2>
-				<span class="next">Event 1: Aug 12, 2017</span> <!-- if completed, enter class="completed" -->
+				<span class="completed">Event 1: Aug 12, 2017</span> <!-- if completed, enter class="completed" -->
 				<br>
-				<span class="">Event 2: Sep 9, 2017 (pending FOG approval)</span>
+				<span class="next">Event 2: Sep 9, 2017</span>
 				<br>
-				<span class="">Event 3: Oct 7, 2017 (pending FOG approval)</span>
+				<span class="">Event 3: Oct 7, 2017</span>
 				<br>
-				<span class="">SFDC Tourney: Nov 11, 2017 (pending FOG approval)</span>
+				<span class="">SFDC Tourney: Nov 11, 2017</span>
 				<br>
-				<span class="">Event 4: Jan 20, 2018 (pending FOG approval)</span>
+				<span class="">Event 4: Jan 20, 2018</span>
 				<br>
-				<span class="">Event 5: March 10, 2018 (pending FOG approval)</span>
+				<span class="">Event 5: March 10, 2018</span>
 				<br>
-				<span class="">Event 6: April 14, 2018 (pending FOG approval)</span>
+				<span class="">Event 6: April 14, 2018</span>
 
 				<br>
 				<br>
