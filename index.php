@@ -18,8 +18,8 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
+				<a href="downloads/season10/baps-season10-event1.pdf" target="_blank">Season 10 - Event 1 Results</a>
             <!--
-				<a href="downloads/season10/baps-season10-event1.pdf" target="_blank">Season 9 - Event 6 Results</a>
 				<a href="downloads/season10/baps-season10.pdf" target="_blank">Season 9 Points</a>
             -->
 				<a href="downloads/guidelines10.pdf" target="_blank">Guidelines - Season 10</a>
