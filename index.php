@@ -18,15 +18,45 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season10/baps-season10-event1.pdf" target="_blank">Season 10 - Event 1 Results</a>
-            <!--
-				<a href="downloads/season10/baps-season10.pdf" target="_blank">Season 9 Points</a>
-            -->
+				<a href="downloads/season10/baps-season10-event2.pdf" target="_blank">Season 10 - Event 2 Results</a>
+				<a href="downloads/season10/baps-season10-points.pdf" target="_blank">Season 10 Points</a>
 				<a href="downloads/guidelines10.pdf" target="_blank">Guidelines - Season 10</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-10/season10event2.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 10, Event 2 Winners</h1>
+			<p>
+				<div class="left schedule">
+                    1st - Bill Miller
+					<br />
+                    2nd - Joshua Weinstock
+					<br />
+                    3rd - Ty Kovacs
+					<br />
+                    4th - Ed Bazan
+					<br />
+                    5th - Mark Farr
+					<br />
+                    6th - Ted Baldwin
+					<br />
+                    7th - John Cardenas
+					<br />
+                    8th - Clark Brooke
+					<br />
+                    9th - Darla Holmes
+				</div>
+                Total players: 36
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="bottom">
 		<section class="page clearfix">
 			<br />
@@ -119,9 +149,9 @@
 				<h2>Tournament Schedule</h2>
 				<span class="completed">Event 1: Aug 12, 2017</span> <!-- if completed, enter class="completed" -->
 				<br>
-				<span class="next">Event 2: Sep 9, 2017</span>
+				<span class="completed">Event 2: Sep 9, 2017</span>
 				<br>
-				<span class="">Event 3: Oct 7, 2017</span>
+				<span class="next">Event 3: Oct 7, 2017</span>
 				<br>
 				<span class="">SFDC Tourney: Nov 11, 2017</span>
 				<br>
