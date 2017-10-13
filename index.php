@@ -18,13 +18,49 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season10/baps-season10-event2.pdf" target="_blank">Season 10 - Event 2 Results</a>
+				<a href="downloads/season10/baps-season10-SFDC.pdf" target="_blank">Season 10 - SFDC Results</a>
 				<a href="downloads/season10/baps-season10-points.pdf" target="_blank">Season 10 Points</a>
 				<a href="downloads/guidelines10.pdf" target="_blank">Guidelines - Season 10</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-10/sfdcevent.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to the winners of SFDC 7th Annual Poker Tournament</h1>
+			<p>
+				<div class="left schedule">
+					1st - Clark Brooke
+					<br />
+					2nd - David Harvey
+					<br />
+					3rd - Aarion Johnson
+					<br />
+					4th - Alison Amable
+					<br />
+					5th - Matt Cerar
+					<br />
+					6th - Darla Holmes
+					<br />
+					7th - Mike Scharnow
+					<br />
+					8th - Mikhail Chirkin
+					<br />
+					9th - John Cardenas
+					<br />
+					<br />
+					<a href="http://www.sfdeafclub.org/2017/09/14/sfdc-poker-tourney-2017-oct-7/" target="_blank">San Francisco Deaf Club Website</a>
+				</div>
+                Total players: 40 
+				<br/>
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
@@ -151,9 +187,9 @@
 				<br>
 				<span class="completed">Event 2: Sep 9, 2017</span>
 				<br>
-				<span class="next">Event 3: Oct 7, 2017</span>
+				<span class="completed"><a href="http://www.sfdeafclub.org/2017/09/14/sfdc-poker-tourney-2017-oct-7/" target="_blank"> SFDC Tourney: Oct 7, 2017</a></span>
 				<br>
-				<span class="">SFDC Tourney: Nov 11, 2017</span>
+				<span class="next">Event 3: Nov 11, 2017</span>
 				<br>
 				<span class="">Event 4: Jan 20, 2018</span>
 				<br>
