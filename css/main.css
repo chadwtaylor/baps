@@ -119,6 +119,7 @@ nav a {
 	text-decoration: none;
 	padding: 4px 10px;
 	margin-left: 10px;
+	margin-top: 10px;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 }
@@ -202,6 +203,12 @@ table.payouts {
 
 table.payouts td {
 	width: 100px;
+}
+
+.row {
+    clear: both;
+    width: 100%;
+    text-align: center;
 }
 
 .sunglasses {
