@@ -18,13 +18,48 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season10/baps-season10-event5.pdf" target="_blank">Season 10 - Event 5</a>
+				<a href="downloads/season10/baps-season10-event6.pdf" target="_blank">Season 10 - Event 6</a>
 				<a href="downloads/season10/baps-season10-points.pdf" target="_blank">Season 10 Points</a>
 				<a href="downloads/guidelines10.pdf" target="_blank">Guidelines - Season 10</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-10/season10champ.png" width="300" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season #10 Champion!</h1>
+			<h1>Clark Brooke</h1>
+			<br />
+			<br />
+		</section>
+	</section>
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-10/season10event6.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 10, Event 6 Winners</h1>
+			<p>
+				<div class="left schedule">
+                    1st - Daniel Klein
+					<br />
+                    2nd - Pat Woo
+					<br />
+                    3rd - Abe Selzer
+					<br />
+                    4th - Mikhail Chirkin
+					<br />
+                    5th - Adam Jarashow
+				</div>
+                Total players: 29
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="bottom">
 		<section class="page clearfix">
 			<br />
@@ -221,17 +256,6 @@
 	</section>
 	<section id="bottom">
 		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="season9/images/season-9/nathan.png"/>
-			<h1>Congratulations to Season #9 Champion!</h1>
-			<h1>Nathan Montoya</h1>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
 			<div class="box 1">
 				<h2>Welcome</h2>
 
@@ -265,13 +289,13 @@
 				<br>
 				<span class="completed">Event 5: March 10, 2018</span>
 				<br>
-				<span class="next">Event 6: April 14, 2018</span>
+				<span class="completed">Event 6: April 14, 2018</span>
 
 				<br>
 				<br>
 
 				<h2>"Freeroll" ($20 entry fee)</h2>
-				<span class="">June 9, 2018</span>
+				<span class="next">June 9, 2018</span>
 
 			</div>
 
