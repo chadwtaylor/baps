@@ -18,216 +18,19 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season10/baps-season10-event6.pdf" target="_blank">Season 10 - Event 6</a>
-				<a href="downloads/season10/baps-season10-points.pdf" target="_blank">Season 10 Points</a>
-				<a href="downloads/guidelines10.pdf" target="_blank">Guidelines - Season 10</a>
+				<!--<a href="downloads/season11/baps-season11-event1.pdf" target="_blank">Season 11 - Event 1</a>-->
+				<!--<a href="downloads/season11/baps-season11-points.pdf" target="_blank">Season 11 Points</a>-->
+				<!--<a href="downloads/guidelines10.pdf" target="_blank">Guidelines - Season 11</a>-->
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-10/season10champ.png" width="300" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season #10 Champion!</h1>
-			<h1>Clark Brooke</h1>
-			<br />
-			<br />
-		</section>
-	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
 			<br />
-			<img src="images/season-10/season10event6.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 10, Event 6 Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Daniel Klein
-					<br />
-                    2nd - Pat Woo
-					<br />
-                    3rd - Abe Selzer
-					<br />
-                    4th - Mikhail Chirkin
-					<br />
-                    5th - Adam Jarashow
-				</div>
-                Total players: 29
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-10/season10event5.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 10, Event 5 Winners</h1>
-			<p>
-				<div class="left schedule">
-					1st - Pat Woo
-					<br />
-					2nd - Mike Sidandsky
-					<br />
-					3rd - Jason Hom
-					<br />
-					4th - Adam Jarashow
-					<br />
-					5th - Mark Farr
-					<br />
-					6th - David Smario
-					<br />
-					7th - Don Lee Hanaumi
-					<br />
-					8th - Jaime Jackerson
-					<br />
-					9th - Richard Apple
-				</div>
-                Total players:  38
-				<br/>
-			</p>
-			<br />
-			<br />
-			<div class="row">
-				<img src="images/season-10/royalflush.png" width="200" style="margin: 30px 0; float: none;" />
-				<h3>Royal Flush Winner - Corey Brasier</h3>
-			</div>
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-10/season10event3.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 10, Event 3 Winners</h1>
-			<p>
-				<div class="left schedule">
-					1st - Jerry Grigsby
-					<br />
-					2nd - Jaime Jackerson
-					<br />
-					3rd - David Seto
-					<br />
-					4th - Alison Amable
-					<br />
-					5th - Aarion Johnson
-					<br />
-					6th - Clark Brooke
-					<br />
-					7th - Adam Jarashow
-					<br />
-					8th - Alex Diaz
-					<br />
-					9th - Mike Sidansky
-				</div>
-                Total players:  37
-				<br/>
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-10/sfdcevent.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to the winners of SFDC 7th Annual Poker Tournament</h1>
-			<p>
-				<div class="left schedule">
-					1st - Clark Brooke
-					<br />
-					2nd - David Harvey
-					<br />
-					3rd - Aarion Johnson
-					<br />
-					4th - Alison Amable
-					<br />
-					5th - Matt Cerar
-					<br />
-					6th - Darla Holmes
-					<br />
-					7th - Mike Scharnow
-					<br />
-					8th - Mikhail Chirkin
-					<br />
-					9th - John Cardenas
-					<br />
-					<br />
-					<a href="http://www.sfdeafclub.org/2017/09/14/sfdc-poker-tourney-2017-oct-7/" target="_blank">San Francisco Deaf Club Website</a>
-				</div>
-                Total players: 40 
-				<br/>
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-10/season10event2.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 10, Event 2 Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Bill Miller
-					<br />
-                    2nd - Joshua Weinstock
-					<br />
-                    3rd - Ty Kovacs
-					<br />
-                    4th - Ed Bazan
-					<br />
-                    5th - Mark Farr
-					<br />
-                    6th - Ted Baldwin
-					<br />
-                    7th - John Cardenas
-					<br />
-                    8th - Clark Brooke
-					<br />
-                    9th - Darla Holmes
-				</div>
-                Total players: 36
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-10/season10event1.png" width="400" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season 10, Event 1 Winners</h1>
-			<p>
-				<div class="left schedule">
-                    1st - Jaime Jackerson
-					<br />
-                    2nd - Darla Holmes
-					<br />
-                    3rd - Elizabeth Grigsby
-					<br />
-                    4th - Richard Apple
-					<br />
-                    5th - Eric Kunze
-				</div>
-                Total players: 27
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-				<h1>Get ready for Season 10, August 2017 to June 2018</h1>
-				<h2>First event on Saturday, August 12, 2016!</h2>
+				<h1>Get ready for Season 11, August 2018 to June 2019</h1>
+				<h2>First event on Saturday,  August 11, 2018!</h2>
                 <p>
                     &bullet; Doors will open at 4:30PM for registration.
     				<br />
@@ -256,6 +59,17 @@
 	</section>
 	<section id="bottom">
 		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="season10/images/season-10/season10champ.png" width="300" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season #10 Champion!</h1>
+			<h1>Clark Brooke</h1>
+			<br />
+			<br />
+		</section>
+	</section>
+	<section id="bottom">
+		<section class="page clearfix">
 			<div class="box 1">
 				<h2>Welcome</h2>
 
@@ -270,32 +84,32 @@
 			<div class="box 2">
 				<h2>News</h2>
 				<p>
-					BAPS is now organized by a committee: Darla Holmes, Elizabeth Grigsby, David Harvey, Eric Kunze, Jaime Jackerson, Jerry Grigsby, and David Smario.
+					BAPS is now organized by a committee: Alison Amable, Darla Holmes, Elizabeth Grigsby, David Seto, David Smario, Eric Kunze, Jaime Jackerson, Jerry Grigsby
 				</p>
 				<p>Good luck!</p>
 			</div>
             <p>&nbsp;</p>
 			<div class="box 3">
 				<h2>Tournament Schedule</h2>
-				<span class="completed">Event 1: Aug 12, 2017</span> <!-- if completed, enter class="completed" -->
-				<br>
-				<span class="completed">Event 2: Sep 9, 2017</span>
-				<br>
-				<span class="completed"><a href="http://www.sfdeafclub.org/2017/09/14/sfdc-poker-tourney-2017-oct-7/" target="_blank"> SFDC Tourney: Oct 7, 2017</a></span>
-				<br>
-				<span class="completed">Event 3: Nov 11, 2017</span>
-				<br>
-				<span class="completed">Event 4: Jan 20, 2018</span>
-				<br>
-				<span class="completed">Event 5: March 10, 2018</span>
-				<br>
-				<span class="completed">Event 6: April 14, 2018</span>
 
+				<span class="next">Event 1 – August 11th</span> <!-- if completed, enter class="completed" -->
+				<br>
+				<span class="">Event 2 - September 8th </span>
+				<br>
+				<span class="">SFDC Tourney – October 6th</span>
+				<br>
+				<span class="">Event 3 - November 10th</span>
+				<br>
+				<span class="">Event 4 – January 12th</span>
+				<br>
+				<span class="">Event 5 – February 9th</span>
+				<br>
+				<span class="">Event 6 – March 9th</span>
 				<br>
 				<br>
-
 				<h2>"Freeroll" ($20 entry fee)</h2>
-				<span class="next">June 9, 2018</span>
+				<span class="">June 8th</span>
+				<br>
 
 			</div>
 
@@ -308,6 +122,7 @@
 
 			<nav style="width: 100%; margin: 0px auto; text-align: center; padding-bottom: 0px;">
                 <p>
+    				<a href="season10">View Season 10</a>
     				<a href="season9">View Season 9</a>
     				<a href="season8">View Season 8</a>
     				<a href="season7">View Season 7</a>
