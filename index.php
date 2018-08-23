@@ -18,19 +18,51 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<!--<a href="downloads/season11/baps-season11-event1.pdf" target="_blank">Season 11 - Event 1</a>-->
-				<!--<a href="downloads/season11/baps-season11-points.pdf" target="_blank">Season 11 Points</a>-->
-				<!--<a href="downloads/guidelines10.pdf" target="_blank">Guidelines - Season 11</a>-->
+				<a href="downloads/season11/baps-season11-event1.pdf" target="_blank">Season 11 - Event 1</a>
+				<a href="downloads/season11/baps-season11-points.pdf" target="_blank">Season 11 Points</a>
+				<!--<a href="downloads/guidelines11.pdf" target="_blank">Guidelines - Season 11</a>-->
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-11/season11event1.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 11, Event 1 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Douglas Fischer
+					<br />
+					2nd - David Weiss
+					<br />
+					3rd - Clark Brooke
+					<br />
+					4th - Jerry Grigsby
+					<br />
+					5th - Damira Bechthold
+					<br />
+					6th - Alison Amable
+					<br />
+					7th - Don Lee Hanaumi
+					<br />
+					8th - Joey Baer
+					<br />
+					9th - Bob Ellis
+				</div>
+                Total players: 46
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
 			<br />
 				<h1>Get ready for Season 11, August 2018 to June 2019</h1>
-				<h2>First event on Saturday,  August 11, 2018!</h2>
+				<h2>Event 2 - September 8th!</h2>
                 <p>
                     &bullet; Doors will open at 4:30PM for registration.
     				<br />
@@ -92,9 +124,9 @@
 			<div class="box 3">
 				<h2>Tournament Schedule</h2>
 
-				<span class="next">Event 1 – August 11th</span> <!-- if completed, enter class="completed" -->
+				<span class="completed">Event 1 – August 11th</span> <!-- if completed, enter class="completed" -->
 				<br>
-				<span class="">Event 2 - September 8th </span>
+				<span class="next">Event 2 - September 8th </span>
 				<br>
 				<span class="">SFDC Tourney – October 6th</span>
 				<br>
@@ -131,9 +163,9 @@
                 </p>
                 <p>
     				<a href="downloads/cash_distribution.pdf" target="_blank">Cash Distribution</a>
+    				<a href="downloads/BAPSchampions.pdf" target="_blank">BAPS Champions</a>
     				<a href="downloads/MostBAPSTourneyWins.pdf" target="_blank">Most BAPS Tourney Wins</a>
     				<a href="downloads/baps_history.pdf" target="_blank">Player History</a>
-    				<a href="downloads/guidelines9.pdf" target="_blank">Guidelines</a>
     				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
                 </p>
 			</nav>
