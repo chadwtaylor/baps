@@ -18,13 +18,45 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season11/baps-season11-event1.pdf" target="_blank">Season 11 - Event 1</a>
+				<a href="downloads/season11/baps-season11-event2.pdf" target="_blank">Season 11 - Event 2</a>
 				<a href="downloads/season11/baps-season11-points.pdf" target="_blank">Season 11 Points</a>
 				<!--<a href="downloads/guidelines11.pdf" target="_blank">Guidelines - Season 11</a>-->
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-11/season11event2.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 11, Event 2 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Adam Jarashow
+					<br />
+					2nd - Matt Cerar
+					<br />
+					3rd - Eric Kunze
+					<br />
+					4th - Pat Woo
+					<br />
+					5th - Mike Scharnow
+					<br />
+					6th - David Smario
+					<br />
+					7th - Mark Farr
+					<br />
+					8th - Jason Dietz
+					<br />
+					9th - Tan Nguyen
+				</div>
+                Total players: 38 
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="bottom">
 		<section class="page clearfix">
 			<br />
@@ -126,9 +158,9 @@
 
 				<span class="completed">Event 1 – August 11th</span> <!-- if completed, enter class="completed" -->
 				<br>
-				<span class="next">Event 2 - September 8th </span>
+				<span class="completed">Event 2 - September 8th </span>
 				<br>
-				<span class="">SFDC Tourney – October 6th</span>
+				<span class="next">SFDC Tourney – October 6th</span>
 				<br>
 				<span class="">Event 3 - November 10th</span>
 				<br>
