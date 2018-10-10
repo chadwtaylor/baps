@@ -18,13 +18,45 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season11/baps-season11-event2.pdf" target="_blank">Season 11 - Event 2</a>
+				<a href="downloads/season11/baps-season11-sfdc.pdf" target="_blank">Season 11 - SFDC</a>
 				<a href="downloads/season11/baps-season11-points.pdf" target="_blank">Season 11 Points</a>
 				<!--<a href="downloads/guidelines11.pdf" target="_blank">Guidelines - Season 11</a>-->
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-11/season11sfdc.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to SFDC Tourney Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Jason Hom
+					<br />
+					2nd - Matt Cerar
+					<br />
+					3rd - Scott O'Donnell 
+					<br />
+					4th - David Seto
+					<br />
+					5th - Ty Kovacs
+					<br />
+					6th - David Weiss
+					<br />
+					7th - Joshua Weinstock
+					<br />
+					8th - Adam Jarashow
+					<br />
+					9th - David Smario
+				</div>
+                Total players: 47
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
@@ -160,9 +192,9 @@
 				<br>
 				<span class="completed">Event 2 - September 8th </span>
 				<br>
-				<span class="next">SFDC Tourney – October 6th</span>
+				<span class="complete"><a href="http://www.sfdeafclub.org/2018/09/13/sfdc-poker-2018-oct-6" target="_blank">SFDC Tourney – October 6th</a></span>
 				<br>
-				<span class="">Event 3 - November 10th</span>
+				<span class="next">Event 3 - November 10th</span>
 				<br>
 				<span class="">Event 4 – January 12th</span>
 				<br>
