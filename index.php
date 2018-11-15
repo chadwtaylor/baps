@@ -18,13 +18,45 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season11/baps-season11-sfdc.pdf" target="_blank">Season 11 - SFDC</a>
+				<a href="downloads/season11/baps-season11-event3.pdf" target="_blank">Season 11 - Event 3</a>
 				<a href="downloads/season11/baps-season11-points.pdf" target="_blank">Season 11 Points</a>
 				<!--<a href="downloads/guidelines11.pdf" target="_blank">Guidelines - Season 11</a>-->
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-11/season11event3.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 11, Event 3 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Stanley Matsumoto
+					<br />
+					2nd - John Brooks
+					<br />
+					3rd - Clark Brooke
+					<br />
+					4th - David Smario
+					<br />
+					5th - Jerry Grigsby
+					<br />
+					6th - Darla Holmes
+					<br />
+					7th - Eric Kunze
+					<br />
+					8th - Valeriy Kutsov
+					<br />
+					9th - Don Lee Hanaumi
+				</div>
+                Total players: 36
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="bottom">
 		<section class="page clearfix">
 			<br />
@@ -192,11 +224,11 @@
 				<br>
 				<span class="completed">Event 2 - September 8th </span>
 				<br>
-				<span class="complete"><a href="http://www.sfdeafclub.org/2018/09/13/sfdc-poker-2018-oct-6" target="_blank">SFDC Tourney – October 6th</a></span>
+				<span class="completed">SFDC Tourney – October 6th</span> <span class=""><a href="http://www.sfdeafclub.org/2018/09/13/sfdc-poker-2018-oct-6" target="_blank">(flyer)</a></span>
 				<br>
-				<span class="next">Event 3 - November 10th</span>
+				<span class="completed">Event 3 - November 10th</span>
 				<br>
-				<span class="">Event 4 – January 12th</span>
+				<span class="next">Event 4 – January 12th</span>
 				<br>
 				<span class="">Event 5 – February 9th</span>
 				<br>
