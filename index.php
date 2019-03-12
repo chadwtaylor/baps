@@ -18,13 +18,56 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season11/baps-season11-event5.pdf" target="_blank">Season 11 - Event 5</a>
+				<a href="downloads/season11/baps-season11-event6.pdf" target="_blank">Season 11 - Event 6</a>
 				<a href="downloads/season11/baps-season11-points.pdf" target="_blank">Season 11 Points</a>
 				<!--<a href="downloads/guidelines11.pdf" target="_blank">Guidelines - Season 11</a>-->
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-11/season11champ.png" width="300" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season #11 Champion!</h1>
+			<h1>Adam Jarashow</h1>
+			<br />
+			<br />
+		</section>
+	</section>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-11/season11event6.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 11, Event 6 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Tony Cordero
+					<br />
+					2nd - Clark Brooke
+					<br />
+					3rd - Ty Kovacs
+					<br />
+					4th - Mike Scharnow
+					<br />
+					5th - Darla Holmes
+					<br />
+					6th - David Seto
+					<br />
+					7th - Sulghi Hong
+					<br />
+					8th - Brotrae Bullock
+					<br />
+					9th - Artye Morriese
+				</div>
+                Total players: 44
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
@@ -251,17 +294,6 @@
 	</section>
 	<section id="bottom">
 		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="season10/images/season-10/season10champ.png" width="300" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season #10 Champion!</h1>
-			<h1>Clark Brooke</h1>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
 			<div class="box 1">
 				<h2>Welcome</h2>
 
@@ -296,11 +328,11 @@
 				<br>
 				<span class="completed">Event 5 – February 9th</span>
 				<br>
-				<span class="next">Event 6 – March 9th</span>
+				<span class="completed">Event 6 – March 9th</span>
 				<br>
 				<br>
 				<h2>"Freeroll" ($20 entry fee)</h2>
-				<span class="">June 8th</span>
+				<span class="next">June 8th</span>
 				<br>
 
 			</div>
