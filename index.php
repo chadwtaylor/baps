@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
@@ -25,6 +25,36 @@
 			</nav>
 		</section>
 	</header>
+	<section id="bottom">
+		<section class="page clearfix">
+            <br>
+            <br>
+            <h2>Tournament Schedule - Season 12, 2019-20</h2>
+            <br>
+            <span class="next">Event 1 – August 10, 2019</span> <!-- if completed, enter class="completed" -->
+            <br>
+            <span class="">Event 2 - September 21, 2019 </span>
+            <br>
+            <span class="">SFDC Tourney (Event 3) – October 5, 2019</span>
+            <br>
+            <span class="">Event 4 - November 9, 2019</span>
+            <br>
+            <span class="">Event 5 – January 11, 2020</span>
+            <br>
+            <span class="">Event 6 – February 8, 2020</span>
+            <br>
+            <span class="">Event 7 – March 14, 2020</span>
+            <br>
+            <span class="">Event 8 – April 11, 2020</span>
+            <br>
+            <span class="">Event 9 – May 2, 2020</span>
+            <br>
+            <br>
+            <h2>"Freeroll" ($20 entry fee)</h2>
+            <span class="">June 13, 2020</span>
+            <br>
+		</section>
+	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
@@ -314,7 +344,7 @@
 			</div>
             <p>&nbsp;</p>
 			<div class="box 3">
-				<h2>Tournament Schedule</h2>
+				<h2>Tournament Schedule - Season 10, 2018-19</h2>
 
 				<span class="completed">Event 1 – August 11th</span> <!-- if completed, enter class="completed" -->
 				<br>
@@ -332,7 +362,7 @@
 				<br>
 				<br>
 				<h2>"Freeroll" ($20 entry fee)</h2>
-				<span class="next">June 8th</span>
+				<span class="completed">June 8th</span>
 				<br>
 
 			</div>
