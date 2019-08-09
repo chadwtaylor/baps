@@ -88,7 +88,11 @@ section.page img
     float:right;
     margin: 0 0 10px 0;
 }
-@media only screen and (max-width: 768px) {
+@media (max-width: 768px) {
+    section.page 
+    {
+		padding: 20px;
+    }
     section.page img 
     {
         float: none;
@@ -123,6 +127,11 @@ nav a {
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 }
+footer nav a {
+	float: left;
+	width: 30%;
+	display: block;
+}
 
 section#top {
 	background-color: #3D8613;
@@ -133,7 +142,7 @@ section#bottom {
     padding-bottom: 15px;
 }
 
-@media only screen and (min-width: 987px) {
+@media (min-width: 987px) {
     section#bottom .box {
     	float: left;
     	width: 300px;
@@ -145,13 +154,16 @@ section#bottom {
     	margin-right: 0px;
     }
 }
-@media only screen and (max-width: 986px) {
+@media (max-width: 986px) {
     section#bottom .box 
     {
         float: none;
     	width: 100%;
     	margin-right: 0;
     }
+	footer nav a {
+		width: 46%;
+	}
 }
 
 section#bottom .box h2 {
