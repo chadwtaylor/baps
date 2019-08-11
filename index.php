@@ -27,6 +27,38 @@
 			</nav>
 		</section>
 	</header>
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-12/season12event1.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 12, Event 1 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Jim Donaldson
+					<br />
+					2nd - Richard Apple
+					<br />
+					3rd - Sue Kovacs
+					<br />
+					4th - David Smario
+					<br />
+					5th - Clark Brooke
+					<br />
+					6th - Ted Baldwin
+					<br />
+					7th - Mike Scharnow
+					<br />
+					8th - Ed Bazan
+					<br />
+					9th - Tan Nguyen
+				</div>
+                Total players: 35
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="bottom">
 		<section class="page clearfix">
             <br>
