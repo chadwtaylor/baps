@@ -27,6 +27,38 @@
 			</nav>
 		</section>
 	</header>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-12/season12event2.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 12, Event 2 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Tan Ngyen
+					<br />
+					2nd - Scott O'Donnell
+					<br />
+					3rd - David Seto
+					<br />
+					4th - Doug Fischer
+					<br />
+					5th - Dominic Ternillo
+					<br />
+					6th - Darla Holmes
+					<br />
+					7th - Mike Scharnow
+					<br />
+					8th - Jaime Jackerson
+					<br />
+					9th - Matt Cerar
+				</div>
+                Total players: 37
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
@@ -65,11 +97,11 @@
             <br>
             <h2>Tournament Schedule - Season 12, 2019-20</h2>
             <br>
-            <span class="next">Event 1 – August 10, 2019</span> <!-- if completed, enter class="completed" -->
+            <span class="completed">Event 1 – August 10, 2019</span> <!-- if completed, enter class="completed" -->
             <br>
-            <span class="">Event 2 - September 21, 2019 </span>
+            <span class="completed">Event 2 - September 21, 2019 </span>
             <br>
-            <span class="">SFDC Tourney (Event 3) – October 5, 2019</span>
+            <span class="next">SFDC Tourney (Event 3) – October 5, 2019</span>
             <br>
             <span class="">Event 4 - November 9, 2019</span>
             <br>
@@ -124,11 +156,11 @@
 			<div class="box 3">
 				<h2>Tournament Schedule - Season 12, 2019-20</h2>
 
-				<span class="next">Event 1 – August 10, 2019</span> <!-- if completed, enter class="completed" -->
+				<span class="completed">Event 1 – August 10, 2019</span> <!-- if completed, enter class="completed" -->
 				<br>
-				<span class="">Event 2 - September 21, 2019 </span>
+				<span class="completed">Event 2 - September 21, 2019 </span>
 				<br>
-				<span class="">SFDC Tourney (Event 3) – October 5, 2019</span>
+				<span class="next">SFDC Tourney (Event 3) – October 5, 2019</span>
 				<br>
 				<span class="">Event 4 - November 9, 2019</span>
 				<br>
