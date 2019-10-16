@@ -18,15 +18,45 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<!--
-				<a href="downloads/season12/baps-season12-event1.pdf" target="_blank">Season 12 - Event 1</a>
+				<a href="downloads/season12/baps-season12-sfdc.pdf" target="_blank">Season 12 - SFDC</a>
 				<a href="downloads/season12/baps-season12-points.pdf" target="_blank">Season 12 Points</a>
-				-->
 				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 12</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-12/season12sfdc.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<h1>Congratulations to Season 12, SFDC Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Doug Fischer
+					<br />
+					2nd - Brotrae Bullock
+					<br />
+					3rd - Samuel Reynolds
+					<br />
+					4th - Clark Brooke
+					<br />
+					5th - David Weiss
+					<br />
+					6th - Mikhail Chirkin
+					<br />
+					7th - April Brown
+					<br />
+					8th - Mike Sidansky
+					<br />
+					9th - Damira Bechthold
+				</div>
+                Total players: 39
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="bottom">
 		<section class="page clearfix">
 			<br />
@@ -101,9 +131,9 @@
             <br>
             <span class="completed">Event 2 - September 21, 2019 </span>
             <br>
-            <span class="next">SFDC Tourney (Event 3) – October 5, 2019</span>
+			<a href="http://www.sfdeafclub.org/2019/09/27/poker/" target="_blank"><span class="completed">SFDC Tourney (Event 3) – October 5, 2019</span></a>
             <br>
-            <span class="">Event 4 - November 9, 2019</span>
+            <span class="next">Event 4 - November 9, 2019</span>
             <br>
             <span class="">Event 5 – January 11, 2020</span>
             <br>
@@ -160,9 +190,9 @@
 				<br>
 				<span class="completed">Event 2 - September 21, 2019 </span>
 				<br>
-				<span class="next">SFDC Tourney (Event 3) – October 5, 2019</span>
+				<a href="http://www.sfdeafclub.org/2019/09/27/poker/" target="_blank"><span class="completed">SFDC Tourney (Event 3) – October 5, 2019</span></a>
 				<br>
-				<span class="">Event 4 - November 9, 2019</span>
+				<span class="next">Event 4 - November 9, 2019</span>
 				<br>
 				<span class="">Event 5 – January 11, 2020</span>
 				<br>
