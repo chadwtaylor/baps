@@ -11,25 +11,48 @@
 </head>
 
 <body>
-
 	<header>
 		<section class="page clearfix">
 			<a href="/">
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season12/baps-season12-sfdc.pdf" target="_blank">Season 12 - SFDC</a>
+				<a href="downloads/season12/baps-season12-event4.pdf" target="_blank">Season 12 - Event 4</a>
 				<a href="downloads/season12/baps-season12-points.pdf" target="_blank">Season 12 Points</a>
 				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 12</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-12/season12event4.png" />
+			<h1>Congratulations to Season 12, Event #4 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - John Brooks
+					<br />
+					2nd - Jason Hom
+					<br />
+					3rd - Alex Diaz
+					<br />
+					4th - Mike Scharnow
+					<br />
+					5th - Pat Woo
+				</div>
+                Total players: 32
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
 			<br />
-			<img src="images/season-12/season12sfdc.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<img src="images/season-12/season12sfdc.png" />
 			<h1>Congratulations to Season 12, SFDC Winners</h1>
 			<p>
 				<div class="left schedule">
@@ -61,7 +84,7 @@
 		<section class="page clearfix">
 			<br />
 			<br />
-			<img src="images/season-12/season12event2.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<img src="images/season-12/season12event2.png" />
 			<h1>Congratulations to Season 12, Event 2 Winners</h1>
 			<p>
 				<div class="left schedule">
@@ -93,7 +116,7 @@
 		<section class="page clearfix">
 			<br />
 			<br />
-			<img src="images/season-12/season12event1.png" width="400" style="float:right; margin: 0 0 10px 0;" />
+			<img src="images/season-12/season12event1.png" />
 			<h1>Congratulations to Season 12, Event 1 Winners</h1>
 			<p>
 				<div class="left schedule">
@@ -133,9 +156,9 @@
             <br>
 			<a href="http://www.sfdeafclub.org/2019/09/27/poker/" target="_blank"><span class="completed">SFDC Tourney (Event 3) – October 5, 2019</span></a>
             <br>
-            <span class="next">Event 4 - November 9, 2019</span>
+            <span class="completed">Event 4 - November 9, 2019</span>
             <br>
-            <span class="">Event 5 – January 11, 2020</span>
+            <span class="next">Event 5 – January 11, 2020</span>
             <br>
             <span class="">Event 6 – February 8, 2020</span>
             <br>
@@ -192,9 +215,9 @@
 				<br>
 				<a href="http://www.sfdeafclub.org/2019/09/27/poker/" target="_blank"><span class="completed">SFDC Tourney (Event 3) – October 5, 2019</span></a>
 				<br>
-				<span class="next">Event 4 - November 9, 2019</span>
+				<span class="completed">Event 4 - November 9, 2019</span>
 				<br>
-				<span class="">Event 5 – January 11, 2020</span>
+				<span class="next">Event 5 – January 11, 2020</span>
 				<br>
 				<span class="">Event 6 – February 8, 2020</span>
 				<br>

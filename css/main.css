@@ -83,10 +83,12 @@ section.page {
 	margin: 0px auto;
 }
 
-section.page img 
+section.page > img 
 {
     float:right;
-    margin: 0 0 10px 0;
+	margin: 0 0 10px 0;
+	max-width: 400px;
+	width: 100%;
 }
 @media (max-width: 768px) {
     section.page 
@@ -107,8 +109,10 @@ section#top, section#bottom {
 #logo {
 	float: left;
 	background: url("../images/baps_logo.png") no-repeat;
-	width: 311px;
+	max-width: 311px;
+	width: 100%;
 	height: 67px;
+	background-size: contain;
 }
 
 nav {
@@ -165,6 +169,11 @@ section#bottom {
 		width: 46%;
 	}
 }
+@media (max-width: 768px) {
+	footer nav a {
+		width: 100%;
+	}
+}
 
 section#bottom .box h2 {
 	font-size: 15px;
@@ -180,7 +189,8 @@ footer {
 footer section div {
 	text-align: center;
 	margin: 0px auto;
-	width: 300px;
+	max-width: 300px;
+	width: 100%;
 }
 
 #logo a, #logo a:visited {
