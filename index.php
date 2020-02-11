@@ -17,13 +17,67 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season12/baps-season12-event4.pdf" target="_blank">Season 12 - Event 4</a>
+				<a href="downloads/season12/baps-season12-event6.pdf" target="_blank">Season 12 - Event 6</a>
 				<a href="downloads/season12/baps-season12-points.pdf" target="_blank">Season 12 Points</a>
 				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 12</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="bottom">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-12/season12event6.png" />
+			<h1>Congratulations to Season 12, Event #6 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Ed Bazan
+					<br />
+					2nd - Sulghi Hong
+					<br />
+					3rd - Mikhail Chirkin
+					<br />
+					4th - Jonathan Hughes 
+					<br />
+					5th - Artye Morriese
+					<br />
+					6th - Julia Hong
+					<br />
+					7th - Eric Kunze 
+					<br />
+					8th - Brotrae Bullock 
+					<br />
+					9th - Bob Officer
+				</div>
+                Total players: 43
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-12/season12event5.png" />
+			<h1>Congratulations to Season 12, Event #5 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Joshua Weinstock
+					<br />
+					2nd - Eric Kunze
+					<br />
+					3rd - Mike Sidansky
+					<br />
+					4th - Daniel Gough
+				</div>
+                Total players: 23
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="bottom">
 		<section class="page clearfix">
 			<br />
@@ -158,11 +212,11 @@
             <br>
             <span class="completed">Event 4 - November 9, 2019</span>
             <br>
-            <span class="next">Event 5 – January 11, 2020</span>
+            <span class="completed">Event 5 – January 11, 2020</span>
             <br>
-            <span class="">Event 6 – February 8, 2020</span>
+            <span class="completed">Event 6 – February 8, 2020</span>
             <br>
-            <span class="">Event 7 – March 14, 2020</span>
+            <span class="next">Event 7 – March 14, 2020</span>
             <br>
             <span class="">Event 8 – April 11, 2020</span>
             <br>
@@ -217,11 +271,11 @@
 				<br>
 				<span class="completed">Event 4 - November 9, 2019</span>
 				<br>
-				<span class="next">Event 5 – January 11, 2020</span>
+				<span class="completed">Event 5 – January 11, 2020</span>
 				<br>
-				<span class="">Event 6 – February 8, 2020</span>
+				<span class="completed">Event 6 – February 8, 2020</span>
 				<br>
-				<span class="">Event 7 – March 14, 2020</span>
+				<span class="next">Event 7 – March 14, 2020</span>
 				<br>
 				<span class="">Event 8 – April 11, 2020</span>
 				<br>
