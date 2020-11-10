@@ -66,6 +66,13 @@ h2 {
 
 p {
 	margin-top: 10px;
+	font-size: 20px;
+	line-height: 36px;
+}
+
+span {
+	font-size: 20px;
+	line-height: 36px;
 }
 
 a {

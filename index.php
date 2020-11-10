@@ -17,225 +17,91 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<a href="downloads/season12/baps-season12-event6.pdf" target="_blank">Season 12 - Event 6</a>
-				<a href="downloads/season12/baps-season12-points.pdf" target="_blank">Season 12 Points</a>
-				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 12</a>
+				<!--
+				<a href="downloads/season13/baps-season13-event6.pdf" target="_blank">Season 13 - Event 1</a>
+				<a href="downloads/season13/baps-season13-points.pdf" target="_blank">Season 13 Points</a>
+                -->
+				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 13</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="top">
+		<section class="page clearfix">
+            <br>
+			<h1>Virtual BAPS - Season 13</h1>
+            <h2>Tournament Schedule - November 2020 to April 2021</h2>
+            <br>
+            <span class="">Event 1 – November 21, 2020</span> <!-- if completed, enter class="completed" -->
+            <br>
+            <span class="">Event 2 - December 5, 2020</span>
+            <br>
+            <span class="">Event 3 - December 19, 2020</span>
+            <br>
+            <span class="">Event 4 - January 9, 2020</span>
+            <br>
+            <span class="">Event 5 – January 23, 2021</span>
+            <br>
+            <span class="">Event 6 – February 6, 2021</span>
+            <br>
+            <span class="">Event 7 – February 20, 2021</span>
+            <br>
+            <span class="">Event 8 – March 6, 2021</span>
+            <br>
+            <span class="">Event 9 – March 20, 2021</span>
+            <br>
+            <span class="">Event 10 – April 6, 2021</span>
+            <br>
+            <br>
+		</section>
+	</section>
 	<section id="bottom">
 		<section class="page clearfix">
 			<br />
-			<br />
-			<img src="images/season-12/season12event6.png" />
-			<h1>Congratulations to Season 12, Event #6 Winners</h1>
-			<p>
-				<div class="left schedule">
-					1st - Ed Bazan
-					<br />
-					2nd - Sulghi Hong
-					<br />
-					3rd - Mikhail Chirkin
-					<br />
-					4th - Jonathan Hughes 
-					<br />
-					5th - Artye Morriese
-					<br />
-					6th - Julia Hong
-					<br />
-					7th - Eric Kunze 
-					<br />
-					8th - Brotrae Bullock 
-					<br />
-					9th - Bob Officer
-				</div>
-                Total players: 43
-			</p>
-			<br />
+            <h2>General Information</h2>
+            <p>
+                &bullet;
+                $20 Entry fee ($15 prize for this event, $5 for BAPS leadership points)
+                <br />&bullet;
+                Cash App to $VirtualBAPS: <a href="https://cash.app/$VirtualBAPS" target="_blank">https://cash.app/$VirtualBAPS</a>
+                <br />&bullet;
+                Early Registration until 6:15 PM
+                <br />&bullet;
+                No Late Registration after 6:15PM, to allow time to verify all players have paid.
+                <br />&bullet;
+                Game starts at 6:30PM sharp!
+                <br />&bullet;
+                No Swearing or insulting allowed in chat room. Two warnings before being eliminated.
+                <br />&bullet;
+                As a courtesy, all players to continue play at all times wihtout sitting out.
+                <br />&bullet;
+                Poker App: <a href="https://www.pokerstars.bet/" target="_blank">PokerStars</a> (see below for instructions)
+                <br />&bullet;
+                You need to collect free chips in PokerStars to be able to register for each event.
+                <br />&bullet;
+                Enjoy and have fun!
+            </p>
 			<br />
 		</section>
 	</section>
 	<section id="top">
 		<section class="page clearfix">
 			<br />
-			<br />
-			<img src="images/season-12/season12event5.png" />
-			<h1>Congratulations to Season 12, Event #5 Winners</h1>
-			<p>
-				<div class="left schedule">
-					1st - Joshua Weinstock
-					<br />
-					2nd - Eric Kunze
-					<br />
-					3rd - Mike Sidansky
-					<br />
-					4th - Daniel Gough
-				</div>
-                Total players: 23
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-12/season12event4.png" />
-			<h1>Congratulations to Season 12, Event #4 Winners</h1>
-			<p>
-				<div class="left schedule">
-					1st - John Brooks
-					<br />
-					2nd - Jason Hom
-					<br />
-					3rd - Alex Diaz
-					<br />
-					4th - Mike Scharnow
-					<br />
-					5th - Pat Woo
-				</div>
-                Total players: 32
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-12/season12sfdc.png" />
-			<h1>Congratulations to Season 12, SFDC Winners</h1>
-			<p>
-				<div class="left schedule">
-					1st - Doug Fischer
-					<br />
-					2nd - Brotrae Bullock
-					<br />
-					3rd - Samuel Reynolds
-					<br />
-					4th - Clark Brooke
-					<br />
-					5th - David Weiss
-					<br />
-					6th - Mikhail Chirkin
-					<br />
-					7th - April Brown
-					<br />
-					8th - Mike Sidansky
-					<br />
-					9th - Damira Bechthold
-				</div>
-                Total players: 39
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-12/season12event2.png" />
-			<h1>Congratulations to Season 12, Event 2 Winners</h1>
-			<p>
-				<div class="left schedule">
-					1st - Tan Ngyen
-					<br />
-					2nd - Scott O'Donnell
-					<br />
-					3rd - David Seto
-					<br />
-					4th - Doug Fischer
-					<br />
-					5th - Dominic Ternillo
-					<br />
-					6th - Darla Holmes
-					<br />
-					7th - Mike Scharnow
-					<br />
-					8th - Jaime Jackerson
-					<br />
-					9th - Matt Cerar
-				</div>
-                Total players: 37
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-12/season12event1.png" />
-			<h1>Congratulations to Season 12, Event 1 Winners</h1>
-			<p>
-				<div class="left schedule">
-					1st - Jim Donaldson
-					<br />
-					2nd - Richard Apple
-					<br />
-					3rd - Sue Kovacs
-					<br />
-					4th - David Smario
-					<br />
-					5th - Clark Brooke
-					<br />
-					6th - Ted Baldwin
-					<br />
-					7th - Mike Scharnow
-					<br />
-					8th - Ed Bazan
-					<br />
-					9th - Tan Nguyen
-				</div>
-                Total players: 35
-			</p>
-			<br />
-			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
-            <br>
-            <br>
-            <h2>Tournament Schedule - Season 12, 2019-20</h2>
-            <br>
-            <span class="completed">Event 1 – August 10, 2019</span> <!-- if completed, enter class="completed" -->
-            <br>
-            <span class="completed">Event 2 - September 21, 2019 </span>
-            <br>
-			<a href="http://www.sfdeafclub.org/2019/09/27/poker/" target="_blank"><span class="completed">SFDC Tourney (Event 3) – October 5, 2019</span></a>
-            <br>
-            <span class="completed">Event 4 - November 9, 2019</span>
-            <br>
-            <span class="completed">Event 5 – January 11, 2020</span>
-            <br>
-            <span class="completed">Event 6 – February 8, 2020</span>
-            <br>
-            <span class="next">Event 7 – March 14, 2020</span>
-            <br>
-            <span class="">Event 8 – April 11, 2020</span>
-            <br>
-            <span class="">Event 9 – May 2, 2020</span>
-            <br>
-            <br>
-            <h2>"Freeroll" ($20 entry fee)</h2>
-            <span class="">June 13, 2020</span>
-            <br>
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
-			<br />
-			<br />
-			<img src="images/season-12/season11champ.png" width="300" style="float:right; margin: 0 0 10px 0;" />
-			<h1>Congratulations to Season #11 Champion!</h1>
-			<h1>Adam Jarashow</h1>
-			<br />
+            <h2>Poker Stars</h2>
+            <p>
+                &bullet;
+                <a href="https://www.pokerstars.bet/poker/download/" target="_blank">Download Poker Stars app</a> 
+                <br />&bullet;
+                Open the main poker lobby, then click on the Home Games tab
+                <br />&bullet;
+                Click the 'Join a Poker Club' button
+                <br />&bullet;
+                Enter my Club ID number: 3689238
+                <br />&bullet;
+                Enter my Invitation Code: DeafPoker
+                <br />&bullet;
+                BAPS committee will approve your membership request.
+            </p>
 			<br />
 		</section>
 	</section>
@@ -250,6 +116,8 @@
 				<p>
 					You can like us on our facebook page and/or subscribe to our annoucements.
 				</p>
+                <br />
+                <br />
 
 			</div>
 			<div class="box 2">
@@ -261,29 +129,27 @@
 			</div>
             <p>&nbsp;</p>
 			<div class="box 3">
-				<h2>Tournament Schedule - Season 12, 2019-20</h2>
-
-				<span class="completed">Event 1 – August 10, 2019</span> <!-- if completed, enter class="completed" -->
-				<br>
-				<span class="completed">Event 2 - September 21, 2019 </span>
-				<br>
-				<a href="http://www.sfdeafclub.org/2019/09/27/poker/" target="_blank"><span class="completed">SFDC Tourney (Event 3) – October 5, 2019</span></a>
-				<br>
-				<span class="completed">Event 4 - November 9, 2019</span>
-				<br>
-				<span class="completed">Event 5 – January 11, 2020</span>
-				<br>
-				<span class="completed">Event 6 – February 8, 2020</span>
-				<br>
-				<span class="next">Event 7 – March 14, 2020</span>
-				<br>
-				<span class="">Event 8 – April 11, 2020</span>
-				<br>
-				<span class="">Event 9 – May 2, 2020</span>
-				<br>
-				<br>
-				<h2>"Freeroll" ($20 entry fee)</h2>
-				<span class="">June 13, 2020</span>
+				<h2>Tournament Schedule</h2>
+				<h2>Season 13, 2020-21</h2>
+                <span class="">Event 1 – November 21, 2020</span> <!-- if completed, enter class="completed" -->
+                <br>
+                <span class="">Event 2 - December 5, 2020</span>
+                <br>
+                <span class="">Event 3 - December 19, 2020</span>
+                <br>
+                <span class="">Event 4 - January 9, 2020</span>
+                <br>
+                <span class="">Event 5 – January 23, 2021</span>
+                <br>
+                <span class="">Event 6 – February 6, 2021</span>
+                <br>
+                <span class="">Event 7 – February 20, 2021</span>
+                <br>
+                <span class="">Event 8 – March 6, 2021</span>
+                <br>
+                <span class="">Event 9 – March 20, 2021</span>
+                <br>
+                <span class="">Event 10 – April 6, 2021</span>
 				<br>
 			</div>
 
@@ -291,26 +157,14 @@
 
 	</section>
 
+
 	<footer>
 		<section class="page" style="padding-top: 20px;">
 
 			<nav style="width: 100%; margin: 0px auto; text-align: center; padding-bottom: 0px;">
-				<a href="season11">View Season 11</a>
-				<a href="season10">View Season 10</a>
-				<a href="season9">View Season 9</a>
-				<a href="season8">View Season 8</a>
-				<a href="season7">View Season 7</a>
-				<a href="season6">View Season 6</a>
-				<a href="season5">View Season 5</a>
-				<a href="downloads/cash_distribution.pdf" target="_blank">Cash Distribution</a>
-				<a href="downloads/BAPSchampions.pdf" target="_blank">BAPS Champions</a>
-				<a href="downloads/MostBAPSTourneyWins.pdf" target="_blank">Most BAPS Tourney Wins</a>
-				<a href="downloads/baps_history.pdf" target="_blank">Player History</a>
-				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
-				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 12</a>
+				<a href="info.php" target="_blank">BAPS Info</a>
 			</nav>
             <p style="clear:both;">&nbsp;</p>
-
 			<div>&copy; Deaf Bay Area Poker Series - 2013&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/groups/bayareapokerseries/" target="_blank"><img src="images/Facebook_icon.png" border="0" width="25" /></a></div>
 			<br />
 		</section>
