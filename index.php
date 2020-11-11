@@ -50,7 +50,7 @@
             <br>
             <span class="">Event 9 – March 20, 2021</span>
             <br>
-            <span class="">Event 10 – April 6, 2021</span>
+            <span class="">Event 10 – April 3, 2021</span>
             <br>
             <br>
 		</section>
@@ -73,7 +73,7 @@
                 <br />&bullet;
                 No Swearing or insulting allowed in chat room. Two warnings before being eliminated.
                 <br />&bullet;
-                As a courtesy, all players to continue play at all times wihtout sitting out.
+                As a courtesy, all players to continue play at all times without sitting out.
                 <br />&bullet;
                 Poker App: <a href="https://www.pokerstars.bet/" target="_blank">PokerStars</a> (see below for instructions)
                 <br />&bullet;
@@ -149,7 +149,7 @@
                 <br>
                 <span class="">Event 9 – March 20, 2021</span>
                 <br>
-                <span class="">Event 10 – April 6, 2021</span>
+                <span class="">Event 10 – April 3, 2021</span>
 				<br>
 			</div>
 

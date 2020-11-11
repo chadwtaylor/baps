@@ -85,7 +85,6 @@ a {
 
 section.page {
 	padding: 5px;
-	/*border: 1px dashed red;*/
 	max-width: 1000px;
 	margin: 0px auto;
 }
@@ -97,10 +96,16 @@ section.page > img
 	max-width: 400px;
 	width: 100%;
 }
+section {
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
 @media (max-width: 768px) {
     section.page 
     {
-		padding: 20px;
+		margin: 30px;
     }
     section.page img 
     {
