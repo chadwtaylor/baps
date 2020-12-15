@@ -20,7 +20,7 @@
 				<!--
 				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 13</a>
                 -->
-				<a href="downloads/season13/baps-season13-event1.pdf" target="_blank">Season 13 - Event 1</a>
+				<a href="downloads/season13/baps-season13-event2.pdf" target="_blank">Season 13 - Event 2</a>
 				<a href="downloads/season13/baps-season13-points.pdf" target="_blank">Season 13 Points</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
@@ -34,9 +34,9 @@
             <br>
             <span class="completed">Event 1 – November 21, 2020</span> <!-- if completed, enter class="completed" -->
             <br>
-            <span class="next">Event 2 - December 5, 2020</span>
+            <span class="completed">Event 2 - December 5, 2020</span>
             <br>
-            <span class="">Event 3 - December 19, 2020</span>
+            <span class="next">Event 3 - December 19, 2020</span>
             <br>
             <span class="">Event 4 - January 9, 2020</span>
             <br>
@@ -65,7 +65,9 @@
                 <br />&bullet;
                 $10K chips, 10 minutes blinds.
                 <br />&bullet;
-                Cash App to $VirtualBAPS: <a href="https://cash.app/$VirtualBAPS" target="_blank">https://cash.app/$VirtualBAPS</a>
+                Cash App to $VirtualBAPS: <a href="https://cash.app/$VirtualBAPS" target="_blank">https://cash.app/$VirtualBAPS</a> 
+                <br />&emsp;&emsp;&raquo; <span style="color: red; background-color: greenyellow;">DO NOT MENTION "poker" in memo/note</span>
+                <br />&emsp;&emsp;&raquo; Include your name and PokerStar username in memo/note
                 <br />&bullet;
                 Early Registration until 6:15 PM
                 <br />&bullet;
@@ -162,9 +164,9 @@
 				<h2>Season 13, 2020-21</h2>
                 <span class="completed">Event 1 – November 21, 2020</span> <!-- if completed, enter class="completed" -->
                 <br>
-                <span class="next">Event 2 - December 5, 2020</span>
+                <span class="completed">Event 2 - December 5, 2020</span>
                 <br>
-                <span class="">Event 3 - December 19, 2020</span>
+                <span class="next">Event 3 - December 19, 2020</span>
                 <br>
                 <span class="">Event 4 - January 9, 2020</span>
                 <br>

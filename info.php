@@ -18,11 +18,6 @@
 				<div id="logo"></div>
 			</a>
 			<nav id="main">
-				<!--
-				<a href="downloads/season13/baps-season13-event6.pdf" target="_blank">Season 13 - Event 1</a>
-				<a href="downloads/season13/baps-season13-points.pdf" target="_blank">Season 13 Points</a>
-                -->
-				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 13</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
