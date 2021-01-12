@@ -20,7 +20,7 @@
 				<!--
 				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 13</a>
                 -->
-				<a href="downloads/season13/baps-season13-event2.pdf" target="_blank">Season 13 - Event 2</a>
+				<a href="downloads/season13/baps-season13-event4.pdf" target="_blank">Season 13 - Event 4</a>
 				<a href="downloads/season13/baps-season13-points.pdf" target="_blank">Season 13 Points</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
@@ -36,11 +36,11 @@
             <br>
             <span class="completed">Event 2 - December 5, 2020</span>
             <br>
-            <span class="next">Event 3 - December 19, 2020</span>
+            <span class="completed">Event 3 - December 19, 2020</span>
             <br>
-            <span class="">Event 4 - January 9, 2020</span>
+            <span class="completed">Event 4 - January 9, 2021</span>
             <br>
-            <span class="">Event 5 – January 23, 2021</span>
+            <span class="next">Event 5 – January 23, 2021</span>
             <br>
             <span class="">Event 6 – February 6, 2021</span>
             <br>
@@ -166,11 +166,11 @@
                 <br>
                 <span class="completed">Event 2 - December 5, 2020</span>
                 <br>
-                <span class="next">Event 3 - December 19, 2020</span>
+                <span class="completed">Event 3 - December 19, 2020</span>
                 <br>
-                <span class="">Event 4 - January 9, 2020</span>
+                <span class="completed">Event 4 - January 9, 2021</span>
                 <br>
-                <span class="">Event 5 – January 23, 2021</span>
+                <span class="next">Event 5 – January 23, 2021</span>
                 <br>
                 <span class="">Event 6 – February 6, 2021</span>
                 <br>
