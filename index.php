@@ -43,11 +43,11 @@
     				<br />
                     &bullet; $40 entry fee.
     				<br />
-                    &bullet; NO CASH! Cash App required. Pay by Cash App at the door. No other options.
+                    &bullet; NO CASH! Cash App required. Pay by Cash App at the door. No other options. Required by FOG.
     				<br />
                     &bullet; BAPS Event must be done and cleared out of FOG by 9:45PM
     				<br /><br />
-                    <b>Location for BAPS for Season 9</b>
+                    <b>Location for BAPS for Season 14</b>
     				<br />
                     Fremont Oak Gardens (FOG)
                     <br />
@@ -59,8 +59,6 @@
                     <br />
                     **Regarding COVID-19, no requirements (mask, 6 ft, etc) but you are at your own risk.**
                 </p>
-				<p>
-			<br />
 			<br />
 		</section>
 	</section>
@@ -112,7 +110,7 @@
 			<div class="box 2">
 				<h2>News</h2>
 				<p>
-					BAPS is now organized by a committee: Darla Holmes, Elizabeth Grigsby, David Seto, David Smario, Eric Kunze, Jaime Jackerson, Jerry Grigsby
+					BAPS is now organized by a committee: Elizabeth Grigsby, David Seto, David Smario, Eric Kunze, Jaime Jackerson, Jerry Grigsby
 				</p>
 				<p>Good luck!</p>
                 <br>
