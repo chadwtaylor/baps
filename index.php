@@ -18,122 +18,80 @@
 			</a>
 			<nav id="main">
 				<!--
-				<a href="downloads/BAPS-Guidelines-Season12.pdf" target="_blank">Guidelines - Season 13</a>
+				<a href="downloads/BAPS-Guidelines-Season14.pdf" target="_blank">Guidelines - Season 14</a>
+				<a href="downloads/season13/baps-season14-event1.pdf" target="_blank">Season 14 - Event 1</a>
+				<a href="downloads/season13/baps-season14-points.pdf" target="_blank">Season 14 Points</a>
                 -->
-				<a href="downloads/season13/baps-season13-event7.pdf" target="_blank">Season 13 - Event 7</a>
-				<a href="downloads/season13/baps-season13-points.pdf" target="_blank">Season 13 Points</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
 	<section id="bottom">
 		<section class="page clearfix">
-            <br>
-			<h1>Virtual BAPS - Season 13</h1>
-            <h2>Tournament Schedule - November 2020 to April 2021</h2>
-            <br>
-            <span class="completed">Event 1 – November 21, 2020</span> <!-- if completed, enter class="completed" -->
-            <br>
-            <span class="completed">Event 2 - December 5, 2020</span>
-            <br>
-            <span class="completed">Event 3 - December 19, 2020</span>
-            <br>
-            <span class="completed">Event 4 - January 9, 2021</span>
-            <br>
-            <span class="completed">Event 5 – January 23, 2021</span>
-            <br>
-            <span class="completed">Event 6 – February 6, 2021</span>
-            <br>
-            <span class="completed">Event 7 – February 20, 2021</span>
-            <br>
-            <span class="next">Event 8 – March 6, 2021</span>
-            <br>
-            <span class="">Event 9 – March 20, 2021</span>
-            <br>
-            <span class="">Event 10 – April 3, 2021</span>
-            <br>
-            <br>
-		</section>
-	</section>
-	<section id="top">
-		<section class="page clearfix">
 			<br />
-            <h2>General Information</h2>
-            <p>
-                &bullet;
-                $20 Entry fee ($15 prize for this event, $5 for BAPS leadership points)
-                <br />&bullet;
-                $10K chips, 10 minutes blinds.
-                <br />&bullet;
-                Cash App to $VirtualBAPS: <a href="https://cash.app/$VirtualBAPS" target="_blank">https://cash.app/$VirtualBAPS</a> 
-                <br />&emsp;&emsp;&raquo; <span style="color: red; background-color: greenyellow;">DO NOT MENTION "poker" in memo/note</span>
-                <br />&emsp;&emsp;&raquo; Include your name and PokerStar username in memo/note
-                <br />&bullet;
-                Early Registration until 6:15 PM
-                <br />&bullet;
-                No Late Registration after 6:15PM, to allow time to verify all players have paid.
-                <br />&bullet;
-                Game starts at 6:30PM sharp!
-                <br />&bullet;
-                No Swearing or insulting allowed in chat room. Two warnings before being eliminated.
-                <br />&bullet;
-                As a courtesy, all players to continue play at all times without sitting out.
-                <br />&bullet;
-                Poker App: <a href="https://www.pokerstars.bet/" target="_blank">PokerStars</a> (see below for instructions)
-                <br />&bullet;
-                You need to collect free chips in PokerStars to be able to register for each event.<br />
-                <a href="https://www.youtube.com/watch?v=AvDnA5C3vrc" target="_blank"><img src="images/youtube-icon.png" style="height: 20px; border: none;" /></a>
-                <a href="https://www.youtube.com/watch?v=AvDnA5C3vrc" target="_blank">SEE VIDEO ON HOW TO GET FREE CHIPS</a>
-                <br />&bullet;
-                You need to register in each event.<br /> 
-                <a href="https://www.youtube.com/watch?v=PufBmNQO0EU" target="_blank"><img src="images/youtube-icon.png" style="height: 20px; border: none;" /></a>
-                <a href="https://www.youtube.com/watch?v=PufBmNQO0EU" target="_blank">SEE VIDEO ON HOW TO REGISTER</a>
-                <br />&bullet;
-                Enjoy and have fun!
-            </p>
 			<br />
-		</section>
-	</section>
-	<section id="bottom">
-		<section class="page clearfix">
+				<h1>Get ready for Season 14</h1>
+				<h2>First event on Saturday, August 20, 2022!</h2>
+                <p>
+                    &bullet; Doors will open at 3:30PM for registration.
+    				<br />
+                    &bullet; There will be $10,000 chips for <b>ALL PLAYERS</b> between 3:30PM and 4:00PM.
+    				<br />
+                    &bullet; There will be $9,000 chips for prepaid players after 4:00PM, up to 3 rounds. If no show after 3 rounds, the chips will be taken away.
+    				<br />
+                    &bullet; Cards will be dealt at 4:00PM sharp.
+    				<br />
+                    &bullet; $40 entry fee.
+    				<br />
+                    &bullet; NO CASH! Cash App required. Pay by Cash App at the door. No other options.
+    				<br />
+                    &bullet; BAPS Event must be done and cleared out of FOG by 9:45PM
+    				<br /><br />
+                    <b>Location for BAPS for Season 9</b>
+    				<br />
+                    Fremont Oak Gardens (FOG)
+                    <br />
+                    2681 Driscoll Road, Fremont, CA
+                    <br />
+                    <a href="https://www.google.com/maps/preview?q=2681+Driscoll+Road,+Fremont,+CA" target="_blank">MAP</a>
+    				<br /><br />
+                    **DO NOT bring your chair. There are plenty of chairs at FOG.**
+                    <br />
+                    **Regarding COVID-19, no requirements (mask, 6 ft, etc) but you are at your own risk.**
+                </p>
+				<p>
 			<br />
-            <h2>Virtual BAPS Prizes</h2>
-            <p>
-                &bullet;
-                Prizes for each event based on number of players (total pot from $15 each player of this event only) 
-                <br />
-                Cash distribution (<a href="/downloads/cash_distribution.pdf" target="_blank">PDF, using $15 instead of $30</a>)
-                <br />&bullet;
-                Prize for the season to top 7 players with points (total pot includes $5 for each player from all events)
-                <br />&bullet;
-                Season points includes best 8 out of 10 events for each player. In other words, a player can miss two events and still win the championship (wink).
-                <br />&bullet;
-                No free roll event.
-            </p>
 			<br />
 		</section>
 	</section>
 	<section id="top">
 		<section class="page clearfix">
-			<br />
-            <h2>Poker Stars</h2>
-            <p>
-                &bullet;
-                <a href="https://www.pokerstars.bet/poker/download/" target="_blank">Download Poker Stars app for desktop (Mac or PC)</a> 
-                <br />&bullet;
-                <a href="https://apps.apple.com/us/app/pokerstars-play-money-poker/id606944207" target="_blank">Download PokerStars Lite app for iPhone or iPad</a> 
-                <br />&bullet;
-                Open the main poker lobby, then click on the Home Games tab
-                <br />&bullet;
-                Click the 'Join a Poker Club' button
-                <br />&bullet;
-                Enter my Club ID number: 3689238
-                <br />&bullet;
-                Enter my Invitation Code: DeafPoker
-                <br />&bullet;
-                BAPS committee will approve your membership request.
-            </p>
-			<br />
+            <br>
+			<h1>BAPS - Season 14</h1>
+            <h2>Tournament Schedule - August 2022 to June 2023</h2>
+            <br>
+            <span class="">Event 1 – August 20, 2022 (FOG approved)</span> <!-- if completed, enter class="completed" -->
+            <br>
+            <span class="">Event 2 - September 17, 2022***</span>
+            <br>
+            <span class="">Event 3 - October 8, 2022***</span>
+            <br>
+            <span class="">Event 4 - November 12, 2022***</span>
+            <br>
+            <span class="">Event 5 – February 11, 2023***</span>
+            <br>
+            <span class="">Event 6 – March 11, 2023***</span>
+            <br>
+            <span class="">Event 7 – April 8, 2023***</span>
+            <br>
+            <span class="">Event 8 – May 13, 2023***</span>
+            <br>
+            <span class="">Free Roll – June 10, 2023***</span>
+            <br>
+            <br>
+            <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
+            <br />
+            <br />
 		</section>
 	</section>
 	<section id="bottom">
@@ -157,31 +115,32 @@
 					BAPS is now organized by a committee: Darla Holmes, Elizabeth Grigsby, David Seto, David Smario, Eric Kunze, Jaime Jackerson, Jerry Grigsby
 				</p>
 				<p>Good luck!</p>
+                <br>
+                <br>
 			</div>
-            <p>&nbsp;</p>
-			<div class="box 3">
+			<div class="box 3 small">
 				<h2>Tournament Schedule</h2>
-				<h2>Season 13, 2020-21</h2>
-                <span class="completed">Event 1 – November 21, 2020</span> <!-- if completed, enter class="completed" -->
+				<h2>Season 14, 2022-23</h2>
+                <span class="">Event 1 – August 20, 2022</span> <!-- if completed, enter class="completed" -->
                 <br>
-                <span class="completed">Event 2 - December 5, 2020</span>
+                <span class="">Event 2 - September 17, 2022***</span>
                 <br>
-                <span class="completed">Event 3 - December 19, 2020</span>
+                <span class="">Event 3 - October 8, 2022***</span>
                 <br>
-                <span class="completed">Event 4 - January 9, 2021</span>
+                <span class="">Event 4 - November 12, 2022***</span>
                 <br>
-                <span class="completed">Event 5 – January 23, 2021</span>
+                <span class="">Event 5 – February 11, 2023***</span>
                 <br>
-                <span class="completed">Event 6 – February 6, 2021</span>
+                <span class="">Event 6 – March 11, 2023***</span>
                 <br>
-                <span class="completed">Event 7 – February 20, 2021</span>
+                <span class="">Event 7 – April 8, 2023***</span>
                 <br>
-                <span class="next">Event 8 – March 6, 2021</span>
+                <span class="">Event 8 – May 13, 2023***</span>
                 <br>
-                <span class="">Event 9 – March 20, 2021</span>
-                <br>
-                <span class="">Event 10 – April 3, 2021</span>
+                <span class="">Free Roll – June 10, 2023***</span>
 				<br>
+                <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
+                <br>
 			</div>
 
 		</section>

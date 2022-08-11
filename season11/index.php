@@ -375,21 +375,7 @@
 		<section class="page" style="padding-top: 20px;">
 
 			<nav style="width: 100%; margin: 0px auto; text-align: center; padding-bottom: 0px;">
-                <p>
-    				<a href="season10">View Season 10</a>
-    				<a href="season9">View Season 9</a>
-    				<a href="season8">View Season 8</a>
-    				<a href="season7">View Season 7</a>
-    				<a href="season6">View Season 6</a>
-    				<a href="season5">View Season 5</a>
-                </p>
-                <p>
-    				<a href="downloads/cash_distribution.pdf" target="_blank">Cash Distribution</a>
-    				<a href="downloads/BAPSchampions.pdf" target="_blank">BAPS Champions</a>
-    				<a href="downloads/MostBAPSTourneyWins.pdf" target="_blank">Most BAPS Tourney Wins</a>
-    				<a href="downloads/baps_history.pdf" target="_blank">Player History</a>
-    				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
-                </p>
+				<a href="../info.php" target="_blank">BAPS Info</a>
 			</nav>
             <p style="clear:both;">&nbsp;</p>
 
