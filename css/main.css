@@ -171,7 +171,7 @@ section.page {
 section.page > img {
 	float: right;
 	margin: 0 0 10px 0;
-	max-width: 400px;
+	max-width: 500px;
 	width: 100%;
 }
 section {
@@ -187,6 +187,11 @@ section {
 	section.page img {
 		float: none;
 		margin: 0 0 10px 0;
+	}
+}
+@media (min-width: 768px) {
+	section.page > img {
+		max-width: 100%;
 	}
 }
 

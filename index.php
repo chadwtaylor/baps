@@ -19,19 +19,51 @@
 			<nav id="main">
 				<!--
 				<a href="downloads/BAPS-Guidelines-Season14.pdf" target="_blank">Guidelines - Season 14</a>
-				<a href="downloads/season13/baps-season14-event1.pdf" target="_blank">Season 14 - Event 1</a>
-				<a href="downloads/season13/baps-season14-points.pdf" target="_blank">Season 14 Points</a>
                 -->
+				<a href="downloads/season14/baps-season14-event1.pdf" target="_blank">Season 14 - Event 1</a>
+				<a href="downloads/season14/baps-season14-points.pdf" target="_blank">Season 14 Points</a>
 				<a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 			</nav>
 		</section>
 	</header>
+	<section id="top">
+		<section class="page clearfix">
+			<br />
+			<br />
+			<img src="images/season-14/season14event1.png" />
+			<h1>Congratulations to Season 14, Event #1 Winners</h1>
+			<p>
+				<div class="left schedule">
+					1st - Ty Kovacs
+					<br />
+					2nd - Adam Jarashow
+					<br />
+					3rd - Jerry Grigsby
+					<br />
+					4th - Daniel Gough
+					<br />
+					5th - Jeremy Beaver
+					<br />
+					6th - Pam Siebert
+					<br />
+					7th - David Smario
+					<br />
+					8th - Clark Brooke
+					<br />
+					9th - Tan Nguyen
+				</div>
+                Total players: 37
+			</p>
+			<br />
+			<br />
+		</section>
+	</section>
 	<section id="bottom">
 		<section class="page clearfix">
 			<br />
 			<br />
 				<h1>Get ready for Season 14</h1>
-				<h2>First event on Saturday, August 20, 2022!</h2>
+				<h2>Event #2 on Saturday, September 17, 2022!</h2>
                 <p>
                     &bullet; Doors will open at 3:30PM for registration.
     				<br />
@@ -68,7 +100,7 @@
 			<h1>BAPS - Season 14</h1>
             <h2>Tournament Schedule - August 2022 to June 2023</h2>
             <br>
-            <span class="">Event 1 – August 20, 2022 (FOG approved)</span> <!-- if completed, enter class="completed" -->
+            <span class="completed">Event 1 – August 20, 2022 (FOG approved)</span> <!-- if completed, enter class="completed" -->
             <br>
             <span class="">Event 2 - September 17, 2022***</span>
             <br>
@@ -119,7 +151,7 @@
 			<div class="box 3 small">
 				<h2>Tournament Schedule</h2>
 				<h2>Season 14, 2022-23</h2>
-                <span class="">Event 1 – August 20, 2022</span> <!-- if completed, enter class="completed" -->
+                <span class="completed">Event 1 – August 20, 2022</span> <!-- if completed, enter class="completed" -->
                 <br>
                 <span class="">Event 2 - September 17, 2022***</span>
                 <br>
