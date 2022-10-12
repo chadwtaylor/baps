@@ -189,7 +189,7 @@ section {
 		margin: 0 0 10px 0;
 	}
 }
-@media (min-width: 768px) {
+@media (max-width: 900px) {
 	section.page > img {
 		max-width: 100%;
 	}
