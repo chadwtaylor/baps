@@ -219,7 +219,7 @@
             <br>
             <span class="completed">Event 4 - November 12, 2022 (FOG approved)</span>
             <br>
-            <span class="">Event 5 – February 11, 2023***</span>
+            <span class="">Event 5 – February 11, 2023 (FOG approved)</span>
             <br>
             <span class="">Event 6 – March 11, 2023***</span>
             <br>
@@ -272,7 +272,7 @@
                 <br>
                 <span class="completed">Event 4 - November 12, 2022</span>
                 <br>
-                <span class="">Event 5 – February 11, 2023***</span>
+                <span class="">Event 5 – February 11, 2023 (FOG approved)</span>
                 <br>
                 <span class="">Event 6 – March 11, 2023***</span>
                 <br>
