@@ -22,12 +22,40 @@
                 <!--
 				<a href="downloads/BAPS-Guidelines-Season14.pdf" target="_blank">Guidelines - Season 14</a>
                 -->
-                <a href="downloads/season14/baps-season14-event4.pdf" target="_blank">Season 14 - Event 4</a>
+                <a href="downloads/season14/baps-season14-event4.pdf" target="_blank">Season 14 - Event 5</a>
                 <a href="downloads/season14/baps-season14-points.pdf" target="_blank">Season 14 Points</a>
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
             </nav>
         </section>
     </header>
+    <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-14/season14event5.png" />
+            <h1>Congratulations to Season 14, Event #5 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - David Smario 
+                <br />
+                2nd - Damira Bechthold
+                <br />
+                3rd - Derrick Jull
+                <br />
+                4th - Tan Nguyen
+                <br />
+                5th - Jason Hom
+                <br />
+                6th - Elena Jull
+                <br />
+                7th - Artrud Tellander
+            </div>
+            Total players: 30
+            </p>
+            <br />
+            <br />
+        </section>
+    </section>
     <section id="bottom">
         <section class="page clearfix">
             <br />
@@ -48,7 +76,7 @@
                 <br />
                 6th - Randale Hamp
                 <br />
-                7th - Jesse Bailey
+                7th - JJ Bailey
                 <br />
                 8th - Scott O'Donnell
                 <br />
@@ -219,7 +247,7 @@
             <br>
             <span class="completed">Event 4 - November 12, 2022 (FOG approved)</span>
             <br>
-            <span class="">Event 5 – February 11, 2023 (FOG approved)</span>
+            <span class="completed">Event 5 – February 11, 2023 (FOG approved)</span>
             <br>
             <span class="">Event 6 – March 11, 2023***</span>
             <br>
@@ -272,7 +300,7 @@
                 <br>
                 <span class="completed">Event 4 - November 12, 2022</span>
                 <br>
-                <span class="">Event 5 – February 11, 2023 (FOG approved)</span>
+                <span class="completed">Event 5 – February 11, 2023 (FOG approved)</span>
                 <br>
                 <span class="">Event 6 – March 11, 2023***</span>
                 <br>
