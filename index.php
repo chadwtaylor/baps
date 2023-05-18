@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" href="css/main.css?v=1.1" type="text/css" />
     <link
         href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,800italic,400,600,700,800'
         rel='stylesheet' type='text/css'>
-    <title>
-        Deaf Bay Area Poker Series
-    </title>
+    <title>Deaf Bay Area Poker Series</title>
+    <meta name="description" content="Deaf Bay Area Poker Series BAPS - poker tournaments for deaf poker players in the Greater Bay Area, California. Anyone is welcome to join as long as the player is Deaf/HoH/CODA/ASL"/>
 </head>
 
 <body>
@@ -22,12 +22,87 @@
                 <!--
 				<a href="downloads/BAPS-Guidelines-Season14.pdf" target="_blank">Guidelines - Season 14</a>
                 -->
-                <a href="downloads/season14/baps-season14-event6.pdf" target="_blank">Season 14 - Event 6</a>
+                <a href="downloads/season14/baps-season14-event8.pdf" target="_blank">Season 14 - Event 8</a>
                 <a href="downloads/season14/baps-season14-points.pdf" target="_blank">Season 14 Points</a>
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
             </nav>
         </section>
     </header>
+    <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-14/Season14-Champ-Adam.png" />
+            <h1>Congratulations to Season 14 Champion</h1>
+            <p>
+            <div class="left schedule">
+                Adam Jarashow
+            </div>
+            </p>
+        </section>
+    </section>
+    <section id="bottom">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-14/season14event8.png" />
+            <h1>Congratulations to Season 14, Event #8 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Hendri Argo
+                <br />
+                2nd - Elizabeth Grigsby
+                <br />
+                3rd - Mike Scharnow
+                <br />
+                4th - Damira Bechthold
+                <br />
+                5th - Joshua Weinstock
+            </div>
+            Total players: 25
+            </p>
+            <br />
+            <br />
+            <img src="images/season-14/SF-Scott.png" style="max-width: 300px; clear: both; margin-top: 20px;" />
+            <br />
+            <div class="left schedule">
+                Straight Flush Winner - Scott O'Donnell
+            </div>
+        </section>
+    </section>
+    <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-14/season14event7.jpg" />
+            <h1>Congratulations to Season 14, Event #7 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Mike Sidansky
+                <br />
+                2nd - Denis Ivanov
+                <br />
+                3rd - Don Lee Hanaumi
+                <br />
+                4th - Tristan Boren
+                <br />
+                5th - Ted Baldwin
+                <br />
+                6th - Mark Farr
+                <br />
+                7th  - Charles Farr
+            </div>
+            Total players: 32
+            </p>
+            <br />
+            <br />
+            <img src="images/season-14/SF-Winner.jpg" style="max-width: 300px; clear: both; margin-top: 20px;" />
+            <br />
+            <div class="left schedule">
+                Straight Flush Winner - Gabe Pedroza
+            </div>
+        </section>
+    </section>
     <section id="bottom">
         <section class="page clearfix">
             <br />
@@ -279,9 +354,9 @@
             <br>
             <span class="completed">Event 6 – March 11, 2023 (FOG approved)</span>
             <br>
-            <span class="">Event 7 – April 8, 2023 (FOG approved)</span>
+            <span class="completed">Event 7 – April 8, 2023 (FOG approved)</span>
             <br>
-            <span class="">Event 8 – May 13, 2023 (FOG approved)</span>
+            <span class="completed">Event 8 – May 13, 2023 (FOG approved)</span>
             <br>
             <span class="">Free Roll – June 10, 2023 (FOG approved)</span>
             <br>
@@ -332,9 +407,9 @@
                 <br>
                 <span class="completed">Event 6 – March 11, 2023 (FOG approved)</span>
                 <br>
-                <span class="">Event 7 – April 8, 2023 (FOG approved)</span>
+                <span class="completed">Event 7 – April 8, 2023 (FOG approved)</span>
                 <br>
-                <span class="">Event 8 – May 13, 2023 (FOG approved)</span>
+                <span class="completed">Event 8 – May 13, 2023 (FOG approved)</span>
                 <br>
                 <span class="">Free Roll – June 10, 2023 (FOG approved)</span>
                 <br>

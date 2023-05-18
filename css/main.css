@@ -180,7 +180,7 @@ section {
 	padding-left: 20px;
 	padding-right: 20px;
 }
-@media (max-width: 768px) {
+@media only screen and (max-width: 768px) {
 	section.page {
 		margin: 30px;
 	}
@@ -189,7 +189,7 @@ section {
 		margin: 0 0 10px 0;
 	}
 }
-@media (max-width: 900px) {
+@media only screen and (max-width: 900px) {
 	section.page > img {
 		max-width: 100%;
 	}
@@ -224,6 +224,7 @@ nav a {
 	margin-top: 10px;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
+	display: inline-block;
 }
 footer nav a {
 	float: left;
@@ -240,7 +241,7 @@ section#bottom {
 	padding-bottom: 15px;
 }
 
-@media (min-width: 987px) {
+@media only screen and (min-width: 987px) {
 	section#bottom .box {
 		float: left;
 		width: 300px;
@@ -252,7 +253,7 @@ section#bottom {
 		margin-right: 0px;
 	}
 }
-@media (max-width: 986px) {
+@media only screen and (max-width: 986px) {
 	section#bottom .box {
 		float: none;
 		width: 100%;
@@ -262,7 +263,7 @@ section#bottom {
 		width: 46%;
 	}
 }
-@media (max-width: 768px) {
+@media only screen and (max-width: 768px) {
 	footer nav a {
 		width: 100%;
 	}
