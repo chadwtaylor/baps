@@ -20,113 +20,41 @@
             </a>
             <nav id="main">
                 <!--
-				<a href="downloads/BAPS-Guidelines-Season14.pdf" target="_blank">Guidelines - Season 14</a>
+				<a href="downloads/BAPS-Guidelines-Season15.pdf" target="_blank">Guidelines - Season 15</a>
+                <a href="downloads/season14/baps-season15-event1.pdf" target="_blank">Season 15 - Event 1</a>
+                <a href="downloads/season14/baps-season15-points.pdf" target="_blank">Season 15 Points</a>
                 -->
-                <a href="downloads/season14/baps-season14-event8.pdf" target="_blank">Season 14 - Event 8</a>
-                <a href="downloads/season14/baps-season14-points.pdf" target="_blank">Season 14 Points</a>
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
             </nav>
         </section>
     </header>
-    <section id="top">
-        <section class="page clearfix">
-            <br />
-            <br />
-            <img src="images/season-14/Season14-Champ-Adam.png" />
-            <h1>Congratulations to Season 14 Champion</h1>
-            <p>
-            <div class="left schedule">
-                Adam Jarashow
-            </div>
-            </p>
-        </section>
-    </section>
     <section id="bottom">
         <section class="page clearfix">
-            <br />
-            <br />
-            <img src="images/season-14/season14event8.png" />
-            <h1>Congratulations to Season 14, Event #8 Winners</h1>
-            <p>
-            <div class="left schedule">
-                1st - Hendri Argo
-                <br />
-                2nd - Elizabeth Grigsby
-                <br />
-                3rd - Mike Scharnow
-                <br />
-                4th - Damira Bechthold
-                <br />
-                5th - Joshua Weinstock
-            </div>
-            Total players: 25
-            </p>
-            <br />
-            <br />
-            <img src="images/season-14/SF-Scott.png" style="max-width: 300px; clear: both; margin-top: 20px;" />
-            <br />
-            <div class="left schedule">
-                Straight Flush Winner - Scott O'Donnell
-            </div>
-        </section>
-    </section>
-    <section id="top">
-        <section class="page clearfix">
-            <br />
-            <br />
-            <img src="images/season-14/season14event7.jpg" />
-            <h1>Congratulations to Season 14, Event #7 Winners</h1>
-            <p>
-            <div class="left schedule">
-                1st - Mike Sidansky
-                <br />
-                2nd - Denis Ivanov
-                <br />
-                3rd - Don Lee Hanaumi
-                <br />
-                4th - Tristan Boren
-                <br />
-                5th - Ted Baldwin
-                <br />
-                6th - Mark Farr
-                <br />
-                7th  - Charles Farr
-            </div>
-            Total players: 32
-            </p>
-            <br />
-            <br />
-            <img src="images/season-14/SF-Winner.jpg" style="max-width: 300px; clear: both; margin-top: 20px;" />
-            <br />
-            <div class="left schedule">
-                Straight Flush Winner - Gabe Pedroza
-            </div>
-        </section>
-    </section>
-    <section id="bottom">
-        <section class="page clearfix">
-            <br />
-            <br />
-            <img src="images/season-14/season14event6.png" />
-            <h1>Congratulations to Season 14, Event #6 Winners</h1>
-            <p>
-            <div class="left schedule">
-                1st - Adam Jarashow
-                <br />
-                2nd - Mike Scharnow
-                <br />
-                3rd - Pam Siebert
-                <br />
-                4th - David Smario
-                <br />
-                5th - Nathan Boyes
-                <br />
-                6th - Jeff Bibb
-                <br />
-                7th  - Mike Sidansky
-            </div>
-            Total players: 32
-            </p>
+            <br>
+            <h1>BAPS - Season 15</h1>
+            <h2>Tournament Schedule - August 2023 to June 2024</h2>
+            <br>
+            <span class="">Event 1 – August 19, 2023 (pending FOG approval)</span>
+            <!-- if completed, enter class="completed" -->
+            <br>
+            <span class="">Event 2 - September 9, 2023 (pending FOG approval)</span>
+            <br>
+            <span class="">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
+            <br>
+            <span class="">Event 4 - November 11, 2023 (pending FOG approval)</span>
+            <br>
+            <span class="">Event 5 – February 10, 2024 (pending FOG approval)</span>
+            <br>
+            <span class="">Event 6 – March 9, 2024 (pending FOG approval)</span>
+            <br>
+            <span class="">Event 7 – April 13, 2024 (pending FOG approval)</span>
+            <br>
+            <span class="">Event 8 – May 11, 2024 (pending FOG approval)</span>
+            <br>
+            <span class="">Free Roll – June 8, 2024 (pending FOG approval)</span>
+            <br>
+            <br>
+            <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
             <br />
             <br />
         </section>
@@ -135,175 +63,7 @@
         <section class="page clearfix">
             <br />
             <br />
-            <img src="images/season-14/season14event5.png" />
-            <h1>Congratulations to Season 14, Event #5 Winners</h1>
-            <p>
-            <div class="left schedule">
-                1st - David Smario 
-                <br />
-                2nd - Damira Bechthold
-                <br />
-                3rd - Derrick Jull
-                <br />
-                4th - Tan Nguyen
-                <br />
-                5th - Jason Hom
-                <br />
-                6th - Elena Jull
-                <br />
-                7th - Artrud Tellander
-            </div>
-            Total players: 30
-            </p>
-            <br />
-            <br />
-        </section>
-    </section>
-    <section id="bottom">
-        <section class="page clearfix">
-            <br />
-            <br />
-            <img src="images/season-14/season14event4.png" />
-            <h1>Congratulations to Season 14, Event #4 Winners</h1>
-            <p>
-            <div class="left schedule">
-                1st - Adam Jarashow
-                <br />
-                2nd - Mark Farr
-                <br />
-                3rd - Denis Ivanov
-                <br />
-                4th - Nathan Dingel
-                <br />
-                5th - Selman Jawed
-                <br />
-                6th - Randale Hamp
-                <br />
-                7th - JJ Bailey
-                <br />
-                8th - Scott O'Donnell
-                <br />
-                9th - Tristan Boren
-            </div>
-            Total players: 40
-            </p>
-            <br />
-            <br />
-        </section>
-    </section>
-    <section id="top">
-        <section class="page clearfix">
-            <br />
-            <br />
-            <img src="images/season-14/season14event3.png" />
-            <h1>Congratulations to Season 14, Event #3 Winners</h1>
-            <p>
-            <div class="left schedule">
-                1st - Mike Sidansky
-                <br />
-                2nd - Valeriy Kutsov
-                <br />
-                3rd - Tristan Boren
-                <br />
-                4th - Clark Brooke
-                <br />
-                5th - Mikhail Chirkin
-                <br />
-                6th - Pam Siebert
-                <br />
-                7th - David Smario
-                <br />
-                8th - Julia Hong
-                <br />
-                9th - Ryan Biser
-                <br />
-                10th - Joey Baer
-                <br />
-                11th - Joshua Weinstock
-                <br />
-                12th - Hyun Cho
-                <br />
-                13th - Brotrae Bullock
-                <br />
-                14th - Mark Farr
-                <br />
-                15th - Hendri Argo
-            </div>
-            Total players: 40
-            </p>
-            <br />
-            <br />
-        </section>
-    </section>
-    <section id="bottom">
-        <section class="page clearfix">
-            <br />
-            <br />
-            <img src="images/season-14/season14event2.png" />
-            <h1>Congratulations to Season 14, Event #2 Winners</h1>
-            <p>
-            <div class="left schedule">
-                1st - Sulghi Hong
-                <br />
-                2nd - Elizabeth Grigsby
-                <br />
-                3rd - Mikhail Chirkin
-                <br />
-                4th - David Harvey
-                <br />
-                5th - Tan Nguyen
-                <br />
-                6th - Mark Farr
-                <br />
-                7th - Tristan Boren
-                <br />
-                8th - Ryan Biser
-                <br />
-                9th - Pat Woo
-            </div>
-            Total players: 38
-            </p>
-            <br />
-            <br />
-        </section>
-    </section>
-    <section id="top">
-        <section class="page clearfix">
-            <br />
-            <br />
-            <img src="images/season-14/season14event1.png" />
-            <h1>Congratulations to Season 14, Event #1 Winners</h1>
-            <p>
-            <div class="left schedule">
-                1st - Ty Kovacs
-                <br />
-                2nd - Adam Jarashow
-                <br />
-                3rd - Jerry Grigsby
-                <br />
-                4th - Daniel Gough
-                <br />
-                5th - Jeremy Beaver
-                <br />
-                6th - Pam Siebert
-                <br />
-                7th - David Smario
-                <br />
-                8th - Clark Brooke
-                <br />
-                9th - Tan Nguyen
-            </div>
-            Total players: 37
-            </p>
-            <br />
-            <br />
-        </section>
-    </section>
-    <section id="bottom">
-        <section class="page clearfix">
-            <br />
-            <br />
-            <h1>Season 14</h1>
+            <h1>Season 15</h1>
             <p>
                 &bullet; Doors will open at 3:30PM for registration.
                 <br />
@@ -335,37 +95,6 @@
             <br />
         </section>
     </section>
-    <section id="top">
-        <section class="page clearfix">
-            <br>
-            <h1>BAPS - Season 14</h1>
-            <h2>Tournament Schedule - August 2022 to June 2023</h2>
-            <br>
-            <span class="completed">Event 1 – August 20, 2022 (FOG approved)</span>
-            <!-- if completed, enter class="completed" -->
-            <br>
-            <span class="completed">Event 2 - September 17, 2022 (FOG approved)</span>
-            <br>
-            <span class="completed">Event 3 - SFDC - October 8, 2022 (FOG approved)</span>
-            <br>
-            <span class="completed">Event 4 - November 12, 2022 (FOG approved)</span>
-            <br>
-            <span class="completed">Event 5 – February 11, 2023 (FOG approved)</span>
-            <br>
-            <span class="completed">Event 6 – March 11, 2023 (FOG approved)</span>
-            <br>
-            <span class="completed">Event 7 – April 8, 2023 (FOG approved)</span>
-            <br>
-            <span class="completed">Event 8 – May 13, 2023 (FOG approved)</span>
-            <br>
-            <span class="">Free Roll – June 10, 2023 (FOG approved)</span>
-            <br>
-            <br>
-            <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
-            <br />
-            <br />
-        </section>
-    </section>
     <section id="bottom">
         <section class="page clearfix">
             <div class="box 1">
@@ -385,8 +114,14 @@
             <div class="box 2">
                 <h2>News</h2>
                 <p>
-                    BAPS is now organized by a committee: Elizabeth Grigsby, David Seto, David Smario, Eric Kunze, Jaime
-                    Jackerson, Jerry Grigsby
+                    BAPS is now organized by a committee: 
+                    Darla Holmes,
+                    David Seto, 
+                    David Smario, 
+                    Elizabeth Grigsby, 
+                    Eric Kunze, 
+                    Jaime Jackerson, 
+                    Jerry Grigsby
                 </p>
                 <p>Good luck!</p>
                 <br>
@@ -394,24 +129,25 @@
             </div>
             <div class="box 3 small">
                 <h2>Tournament Schedule</h2>
-                <h2>Season 14, 2022-23</h2>
-                <span class="completed">Event 1 – August 20, 2022</span> <!-- if completed, enter class="completed" -->
+                <h2>Season 15, 2023-24</h2>
+                <span class="">Event 1 – August 19, 2023 (pending FOG approval)</span>
+                <!-- if completed, enter class="completed" -->
                 <br>
-                <span class="completed">Event 2 - September 17, 2022</span>
+                <span class="">Event 2 - September 9, 2023 (pending FOG approval)</span>
                 <br>
-                <span class="completed">Event 3 - SFDC - October 8, 2022</span>
+                <span class="">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
                 <br>
-                <span class="completed">Event 4 - November 12, 2022</span>
+                <span class="">Event 4 - November 11, 2023 (pending FOG approval)</span>
                 <br>
-                <span class="completed">Event 5 – February 11, 2023 (FOG approved)</span>
+                <span class="">Event 5 – February 10, 2024 (pending FOG approval)</span>
                 <br>
-                <span class="completed">Event 6 – March 11, 2023 (FOG approved)</span>
+                <span class="">Event 6 – March 9, 2024 (pending FOG approval)</span>
                 <br>
-                <span class="completed">Event 7 – April 8, 2023 (FOG approved)</span>
+                <span class="">Event 7 – April 13, 2024 (pending FOG approval)</span>
                 <br>
-                <span class="completed">Event 8 – May 13, 2023 (FOG approved)</span>
+                <span class="">Event 8 – May 11, 2024 (pending FOG approval)</span>
                 <br>
-                <span class="">Free Roll – June 10, 2023 (FOG approved)</span>
+                <span class="">Free Roll – June 8, 2024 (pending FOG approval)</span>
                 <br>
                 <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
                 <br>
