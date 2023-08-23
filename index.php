@@ -21,9 +21,9 @@
             <nav id="main">
                 <!--
 				<a href="downloads/BAPS-Guidelines-Season15.pdf" target="_blank">Guidelines - Season 15</a>
-                <a href="downloads/season14/baps-season15-event1.pdf" target="_blank">Season 15 - Event 1</a>
-                <a href="downloads/season14/baps-season15-points.pdf" target="_blank">Season 15 Points</a>
                 -->
+                <a href="downloads/season15/baps-season15-event1.pdf" target="_blank">Season 15 - Event 1</a>
+                <a href="downloads/season15/baps-season15-points.pdf" target="_blank">Season 15 Points</a>
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
             </nav>
         </section>
@@ -34,10 +34,10 @@
             <h1>BAPS - Season 15</h1>
             <h2>Tournament Schedule - August 2023 to June 2024</h2>
             <br>
-            <span class="">Event 1 – August 19, 2023 (pending FOG approval)</span>
+            <span class="completed">Event 1 – August 19, 2023 (FOG approved)</span>
             <!-- if completed, enter class="completed" -->
             <br>
-            <span class="">Event 2 - September 9, 2023 (pending FOG approval)</span>
+            <span class="next">Event 2 - September 9, 2023 (pending FOG approval)</span>
             <br>
             <span class="">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
             <br>
@@ -60,6 +60,34 @@
         </section>
     </section>
     <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-15/season15event1.png" />
+            <h1>Congratulations to Season 15, Event #1 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Mike Sidansky
+                <br />
+                2nd - Stanley Matsumoto
+                <br />
+                3rd - Hyun Cho
+                <br />
+                4th - Jaime Carrasco
+                <br />
+                5th - Hendri Argo
+                <br />
+                6th - Mat Domenichini
+                <br />
+                7th - Jaime Jackerson
+            </div>
+            Total players: 31 
+            </p>
+            <br />
+            <br />
+        </section>
+    </section>
+    <section id="bottom">
         <section class="page clearfix">
             <br />
             <br />
@@ -95,7 +123,7 @@
             <br />
         </section>
     </section>
-    <section id="bottom">
+    <section id="top">
         <section class="page clearfix">
             <div class="box 1">
                 <h2>Welcome</h2>
@@ -130,10 +158,10 @@
             <div class="box 3 small">
                 <h2>Tournament Schedule</h2>
                 <h2>Season 15, 2023-24</h2>
-                <span class="">Event 1 – August 19, 2023 (pending FOG approval)</span>
+                <span class="completed">Event 1 – August 19, 2023 (FOG approved)</span>
                 <!-- if completed, enter class="completed" -->
                 <br>
-                <span class="">Event 2 - September 9, 2023 (pending FOG approval)</span>
+                <span class="next">Event 2 - September 9, 2023 (pending FOG approval)</span>
                 <br>
                 <span class="">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
                 <br>
