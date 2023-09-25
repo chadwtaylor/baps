@@ -37,9 +37,9 @@
             <span class="completed">Event 1 – August 19, 2023 (FOG approved)</span>
             <!-- if completed, enter class="completed" -->
             <br>
-            <span class="next">Event 2 - September 9, 2023 (pending FOG approval)</span>
+            <span class="completed">Event 2 - September 23, 2023 (DATE CHANGED, FOG APPROVED)</span>
             <br>
-            <span class="">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
+            <span class="next">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
             <br>
             <span class="">Event 4 - November 11, 2023 (pending FOG approval)</span>
             <br>
@@ -55,6 +55,34 @@
             <br>
             <br>
             <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
+            <br />
+            <br />
+        </section>
+    </section>
+    <section id="bottom">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-15/season15event2.png" />
+            <h1>Congratulations to Season 15, Event #2 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Mike Sidansky
+                <br />
+                2nd - Matthew Anderson
+                <br />
+                3rd - Adam Jarashow
+                <br />
+                4th - Eric Kunze
+                <br />
+                5th - Ted Baldwin
+                <br />
+                6th - Ethan Seto
+                <br />
+                7th - David Seto
+            </div>
+            Total players: 33
+            </p>
             <br />
             <br />
         </section>
@@ -161,9 +189,9 @@
                 <span class="completed">Event 1 – August 19, 2023 (FOG approved)</span>
                 <!-- if completed, enter class="completed" -->
                 <br>
-                <span class="next">Event 2 - September 9, 2023 (pending FOG approval)</span>
+                <span class="completed">Event 2 - September 23, 2023 (DATE CHANGED, FOG APPROVED)</span>
                 <br>
-                <span class="">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
+                <span class="next">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
                 <br>
                 <span class="">Event 4 - November 11, 2023 (pending FOG approval)</span>
                 <br>
