@@ -22,7 +22,7 @@
                 <!--
 				<a href="downloads/BAPS-Guidelines-Season15.pdf" target="_blank">Guidelines - Season 15</a>
                 -->
-                <a href="downloads/season15/baps-season15-event1.pdf" target="_blank">Season 15 - Event 1</a>
+                <a href="downloads/season15/baps-season15-event2.pdf" target="_blank">Season 15 - Event 2</a>
                 <a href="downloads/season15/baps-season15-points.pdf" target="_blank">Season 15 Points</a>
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
             </nav>
@@ -39,9 +39,9 @@
             <br>
             <span class="completed">Event 2 - September 23, 2023 (DATE CHANGED, FOG APPROVED)</span>
             <br>
-            <span class="next">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
+            <span class="completed">Event 3 - SFDC - October 14, 2023 (FOG APPROVED)</span>
             <br>
-            <span class="">Event 4 - November 11, 2023 (pending FOG approval)</span>
+            <span class="next">Event 4 - November 11, 2023 (FOG APPROVED)</span>
             <br>
             <span class="">Event 5 – February 10, 2024 (pending FOG approval)</span>
             <br>
@@ -55,6 +55,50 @@
             <br>
             <br>
             <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
+            <br />
+            <br />
+        </section>
+    </section>
+    <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-15/season15event3.png" />
+            <h1>Congratulations to Season 15, Event #3 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Jaime Carrasco
+                <br />
+                2nd - Jeremy Beaver
+                <br />
+                3rd - Joey Baer
+                <br />
+                4th - Adam Jarashow
+                <br />
+                5th - Tan Nguyen
+                <br />
+                6th - Artrud Tellander
+                <br />
+                7th - Ron Bye
+                <br />
+                8th - Mikhail Chirkin
+                <br />
+                9th - Scott O'Donnell
+                <br />
+                10th - Kyle Emard
+                <br />
+                11th - Gary Sidansky
+                <br />
+                12th - David Harvey
+                <br />
+                13th - Mark Farr
+                <br />
+                14th - Tristan Boren
+                <br />
+                15th - Jason Hom
+            </div>
+            Total players: 36
+            </p>
             <br />
             <br />
         </section>
@@ -191,9 +235,9 @@
                 <br>
                 <span class="completed">Event 2 - September 23, 2023 (DATE CHANGED, FOG APPROVED)</span>
                 <br>
-                <span class="next">Event 3 - SFDC - October 14, 2023 (pending FOG approval)</span>
+                <span class="completed">Event 3 - SFDC - October 14, 2023 (FOG APPROVED)</span>
                 <br>
-                <span class="">Event 4 - November 11, 2023 (pending FOG approval)</span>
+                <span class="next">Event 4 - November 11, 2023 (FOG APPROVED)</span>
                 <br>
                 <span class="">Event 5 – February 10, 2024 (pending FOG approval)</span>
                 <br>
