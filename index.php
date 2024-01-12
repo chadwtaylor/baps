@@ -22,13 +22,13 @@
                 <!--
 				<a href="downloads/BAPS-Guidelines-Season15.pdf" target="_blank">Guidelines - Season 15</a>
                 -->
-                <a href="downloads/season15/baps-season15-event2.pdf" target="_blank">Season 15 - Event 2</a>
+                <a href="downloads/season15/baps-season15-event4.pdf" target="_blank">Season 15 - Event 4</a>
                 <a href="downloads/season15/baps-season15-points.pdf" target="_blank">Season 15 Points</a>
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
             </nav>
         </section>
     </header>
-    <section id="bottom">
+    <section id="top">
         <section class="page clearfix">
             <br>
             <h1>BAPS - Season 15</h1>
@@ -41,9 +41,9 @@
             <br>
             <span class="completed">Event 3 - SFDC - October 14, 2023 (FOG APPROVED)</span>
             <br>
-            <span class="next">Event 4 - November 11, 2023 (FOG APPROVED)</span>
+            <span class="completed">Event 4 - November 11, 2023 (FOG APPROVED)</span>
             <br>
-            <span class="">Event 5 – February 10, 2024 (pending FOG approval)</span>
+            <span class="next">Event 5 – February 10, 2024 (pending FOG approval)</span>
             <br>
             <span class="">Event 6 – March 9, 2024 (pending FOG approval)</span>
             <br>
@@ -55,6 +55,38 @@
             <br>
             <br>
             <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
+            <br />
+            <br />
+        </section>
+    </section>
+    <section id="bottom">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-15/season15event4.png" />
+            <h1>Congratulations to Season 15, Event #4 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Tan Nguyen
+                <br />
+                2nd - Michael Scharnow
+                <br />
+                3rd - Mark Farr
+                <br />
+                4th - Bill Miller
+                <br />
+                5th - Ted Baldwin
+                <br />
+                6th - Doug Dreisbach
+                <br />
+                7th - Adam Jarashow
+                <br />
+                8th - Brandon Duran
+                <br />
+                9th - Jessica Olsen
+            </div>
+            Total players: 43 
+            </p>
             <br />
             <br />
         </section>
@@ -97,7 +129,7 @@
                 <br />
                 15th - Jason Hom
             </div>
-            Total players: 36
+            Total players: 37
             </p>
             <br />
             <br />
@@ -237,9 +269,9 @@
                 <br>
                 <span class="completed">Event 3 - SFDC - October 14, 2023 (FOG APPROVED)</span>
                 <br>
-                <span class="next">Event 4 - November 11, 2023 (FOG APPROVED)</span>
+                <span class="completed">Event 4 - November 11, 2023 (FOG APPROVED)</span>
                 <br>
-                <span class="">Event 5 – February 10, 2024 (pending FOG approval)</span>
+                <span class="next">Event 5 – February 10, 2024 (pending FOG approval)</span>
                 <br>
                 <span class="">Event 6 – March 9, 2024 (pending FOG approval)</span>
                 <br>
