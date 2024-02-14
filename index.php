@@ -28,7 +28,7 @@
             </nav>
         </section>
     </header>
-    <section id="top">
+    <section id="bottom">
         <section class="page clearfix">
             <br>
             <h1>BAPS - Season 15</h1>
@@ -43,9 +43,9 @@
             <br>
             <span class="completed">Event 4 - November 11, 2023 (FOG APPROVED)</span>
             <br>
-            <span class="next">Event 5 – February 10, 2024 (pending FOG approval)</span>
+            <span class="completed">Event 5 – February 10, 2024 (FOG APPROVED)</span>
             <br>
-            <span class="">Event 6 – March 9, 2024 (pending FOG approval)</span>
+            <span class="next">Event 6 – March 9, 2024 (pending FOG approval)</span>
             <br>
             <span class="">Event 7 – April 13, 2024 (pending FOG approval)</span>
             <br>
@@ -55,6 +55,34 @@
             <br>
             <br>
             <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
+            <br />
+            <br />
+        </section>
+    </section>
+    <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-15/season15event5.jpg" />
+            <h1>Congratulations to Season 15, Event #5 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Jeremy Beaver 
+                <br />
+                2nd - Michael Scharnow
+                <br />
+                3rd - Darla Holmes
+                <br />
+                4th - Denis Ivanov
+                <br />
+                5th - Jason Hom
+                <br />
+                6th - Eric Kunze
+                <br />
+                7th - Joshua Weinstock
+            </div>
+            Total players: 33 
+            </p>
             <br />
             <br />
         </section>
@@ -271,9 +299,9 @@
                 <br>
                 <span class="completed">Event 4 - November 11, 2023 (FOG APPROVED)</span>
                 <br>
-                <span class="next">Event 5 – February 10, 2024 (pending FOG approval)</span>
+                <span class="completed">Event 5 – February 10, 2024 (FOG APPROVED)</span>
                 <br>
-                <span class="">Event 6 – March 9, 2024 (pending FOG approval)</span>
+                <span class="next">Event 6 – March 9, 2024 (pending FOG approval)</span>
                 <br>
                 <span class="">Event 7 – April 13, 2024 (pending FOG approval)</span>
                 <br>
