@@ -22,13 +22,14 @@
                 <!--
 				<a href="downloads/BAPS-Guidelines-Season15.pdf" target="_blank">Guidelines - Season 15</a>
                 -->
-                <a href="downloads/season15/baps-season15-event4.pdf" target="_blank">Season 15 - Event 4</a>
+                <a href="downloads/season15/baps-season15-event8.pdf" target="_blank">Season 15 - Event 8</a>
                 <a href="downloads/season15/baps-season15-points.pdf" target="_blank">Season 15 Points</a>
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
             </nav>
         </section>
     </header>
-    <section id="bottom">
+
+    <section id="top">
         <section class="page clearfix">
             <br>
             <h1>BAPS - Season 15</h1>
@@ -45,16 +46,92 @@
             <br>
             <span class="completed">Event 5 – February 10, 2024 (FOG APPROVED)</span>
             <br>
-            <span class="next">Event 6 – March 9, 2024 (pending FOG approval)</span>
+            <span class="completed">Event 6 – March 9, 2024 (FOG APPROVED)</span>
             <br>
-            <span class="">Event 7 – April 13, 2024 (pending FOG approval)</span>
+            <span class="completed">Event 7 – April 13, 2024 (FOG APPROVED)</span>
             <br>
-            <span class="">Event 8 – May 11, 2024 (pending FOG approval)</span>
+            <span class="completed">Event 8 – May 11, 2024 (FOG APPROVED)</span>
             <br>
-            <span class="">Free Roll – June 8, 2024 (pending FOG approval)</span>
+            <span class="next">Free Roll – June 8, 2024 (FOG APPROVED)</span>
             <br>
             <br>
             <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
+            <br />
+            <br />
+        </section>
+    </section>
+    <section id="bottom">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-15/season15event8.jpg" />
+            <h1>Congratulations to Season 15, Event #8 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Darla Holmes
+                <br />
+                2nd - Mike Scharnow
+                <br />
+                3rd - Jeremy Beaver
+                <br />
+                4th - Gabriell Pedroza
+                <br />
+                5th - Adam Jarashow
+            </div>
+            Total players: 21 
+            </p>
+            <br />
+            <br />
+        </section>
+    </section>
+    <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-15/season15event7.jpg" />
+            <h1>Congratulations to Season 15, Event #7 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Clark Brooke
+                <br />
+                2nd - Michael Gay
+                <br />
+                3rd - Tristan Boren
+                <br />
+                4th - Ted Baldwin
+                <br />
+                5th - Gabriell Pedroza
+            </div>
+            Total players: 26 
+            </p>
+            <br />
+            <br />
+        </section>
+    </section>
+    <section id="bottom">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-15/season15event6.jpg" />
+            <h1>Congratulations to Season 15, Event #6 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Jaime Jackerson
+                <br />
+                2nd - Ryan Biser
+                <br />
+                3rd - Eugene King
+                <br />
+                4th - Jeff Bibb
+                <br />
+                5th - Jeremy Beaver
+                <br />
+                6th - David Seto
+                <br />
+                7th - Mike Sidansky
+            </div>
+            Total players: 32 
+            </p>
             <br />
             <br />
         </section>
@@ -234,7 +311,9 @@
                 <br />
                 &bullet; Cards will be dealt at 4:00PM sharp.
                 <br />
-                &bullet; $40 entry fee.
+                &bullet; $10 entry fee for FREE ROLL - qualified players who attend at least 4 tournaments.
+                <br />
+                &bullet; $40 entry fee for FREE ROLL - non-qualified players who attend LESS THAN 4 tournaments.
                 <br />
                 &bullet; NO CASH! Cash App required. Pay by Cash App at the door. No other options. Required by FOG.
                 <br />
@@ -301,13 +380,13 @@
                 <br>
                 <span class="completed">Event 5 – February 10, 2024 (FOG APPROVED)</span>
                 <br>
-                <span class="next">Event 6 – March 9, 2024 (pending FOG approval)</span>
+                <span class="completed">Event 6 – March 9, 2024 (FOG APPROVED)</span>
                 <br>
-                <span class="">Event 7 – April 13, 2024 (pending FOG approval)</span>
+                <span class="completed">Event 7 – April 13, 2024 (FOG APPROVED)</span>
                 <br>
-                <span class="">Event 8 – May 11, 2024 (pending FOG approval)</span>
+                <span class="completed">Event 8 – May 11, 2024 (FOG APPROVED)</span>
                 <br>
-                <span class="">Free Roll – June 8, 2024 (pending FOG approval)</span>
+                <span class="next">Free Roll – June 8, 2024 (FOG APPROVED)</span>
                 <br>
                 <span class="">Note *** - pending FOG approval. Will announce as soon as dates are approved.</span>
                 <br>
