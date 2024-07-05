@@ -150,6 +150,13 @@ span {
 	font-size: 20px;
 	line-height: 36px;
 }
+ul {
+
+}
+li {
+	padding: 0 0 0 25px;
+    list-style: none;
+}
 
 a {
 	color: white;

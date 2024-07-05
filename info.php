@@ -28,6 +28,7 @@
 			<h1>BAPS INFO</h1>
 
 			<nav style="width: 100%; margin: 0px auto; text-align: center; padding-bottom: 0px;">
+				<a href="season15">View Season 15</a>
 				<a href="season14">View Season 14</a>
 				<a href="season13">View Season 13</a>
 				<a href="season12">View Season 12</a>
