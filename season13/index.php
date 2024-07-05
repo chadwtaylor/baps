@@ -192,9 +192,6 @@
 	<footer>
 		<section class="page" style="padding-top: 20px;">
 
-			<nav style="width: 100%; margin: 0px auto; text-align: center; padding-bottom: 0px;">
-				<a href="../info.php" target="_blank">BAPS Info</a>
-			</nav>
             <p style="clear:both;">&nbsp;</p>
 			<div>&copy; Deaf Bay Area Poker Series - 2013&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/groups/bayareapokerseries/" target="_blank"><img src="images/Facebook_icon.png" border="0" width="25" /></a></div>
 			<br />

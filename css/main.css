@@ -150,6 +150,13 @@ span {
 	font-size: 20px;
 	line-height: 36px;
 }
+ul {
+
+}
+li {
+	padding: 0 0 0 25px;
+    list-style: none;
+}
 
 a {
 	color: white;
@@ -182,7 +189,7 @@ section {
 }
 @media only screen and (max-width: 768px) {
 	section.page {
-		margin: 30px;
+		margin: 5px;
 	}
 	section.page img {
 		float: none;
@@ -265,7 +272,7 @@ section#bottom {
 }
 @media only screen and (max-width: 768px) {
 	footer nav a {
-		width: 100%;
+		width: calc(100% - 20px);
 	}
 }
 section#bottom .box.small span {
