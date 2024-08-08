@@ -19,8 +19,8 @@
                 <div id="logo"></div>
             </a>
             <nav id="main">
-                <!--
 				<a href="downloads/BAPS-Guidelines-Season16.pdf" target="_blank">Guidelines - Season 16</a>
+                <!--
                 <a href="downloads/season16/baps-season16-event1.pdf" target="_blank">Season 16 - Event 1</a>
                 <a href="downloads/season16/baps-season16-points.pdf" target="_blank">Season 16 Points</a>
                 -->
@@ -41,7 +41,8 @@
                         Side Game: <u>Best Hand</u>
                     </li>
                     <li style="font-size: smaller;">
-                        First 4 rounds - reset after every round and 25% of the prize money.  Can't win twice.
+                        The player with the best hand for each of the first 4 rounds wins 25% of the prize money. 
+                        Can't win twice.
                     </li>
                 </ul>
             </span>
@@ -52,7 +53,7 @@
                         Side Game: <u>Biggest Stack</u>
                     </li>
                     <li style="font-size: smaller;">
-                        First 4 rounds - reset after every round and 25% of the prize money.  
+                        The player with the biggest stack at the end of each of the first 4 rounds wins 25% of the prize money. 
                         Can't win twice.
                     </li>
                 </ul>
@@ -63,7 +64,7 @@
                         Side Game: <u>Bounty Hunter</u>
                     </li>
                     <li style="font-size: smaller;">
-                        Can only rob one from the person, not all the bounties.  
+                        Can only rob that person's own bounty chip, not all the bounties that person earned
                         Each bounty is worth $5.
                     </li>
                 </ul>
@@ -74,10 +75,10 @@
                         Side Game: <u>Full House</u>
                     </li>
                     <li style="font-size: smaller;">
-                        Whoever wins with a full house first will get 25% of the prize money. 
-                        Only one win for each round, four rounds. The 5th round might happen if there is no win in the fourth round.  
-                        If no full house win happens in the round, the next round will get the extra 25%.  
-                        Can't win twice. 
+                        First player to win with a Full House wins 25% of the prize money for each of the first 4 rounds - reset after every round
+                        The 5th round will happen if there is no win in any of the first 4 rounds.
+                        Can't win twice.
+                        Unclaimed prize money after the first 5 rounds will be added to BAPS reserves and used at the end of year Free Roll Tournament.
                     </li>
                 </ul>
             </span>
@@ -87,11 +88,10 @@
                         Side Game: <u>Worst Hand</u>
                     </li>
                     <li style="font-size: smaller;">
-                        Must win with a 7-2 hand. 
-                        Whoever wins with a 7-2 hand first will get 25% of the prize money. 
-                        Only one win for each round, four rounds. The 5th round might happen if there is no win in the fourth round. 
-                        If no 7-2 win happens in the round, the next round will get the extra 25%.
+                        First player to win with 7-2 hole cards wins 25% of the prize money for each of the first 4 rounds - reset after every round
+                        The 5th round will happen if there is no win in any of the first 4 rounds.
                         Can't win twice.
+                        Unclaimed prize money after the first 5 rounds will be added to BAPS reserves and used at the end of year Free Roll Tournament.
                     </li>
                 </ul>
             </span>
@@ -101,8 +101,10 @@
                         Side Game: <u>Pocket vs Pocket</u>
                     </li>
                     <li style="font-size: smaller;">
-                        Both players must have pocket pairs. Whoever wins first in each round will get the 25% prize. If no one wins in the round, the next round will get the extra 25%.  
-                        Can't win twice. 
+                        Both players must have pocket pairs. Whoever wins first in each round will get the 25% prize.
+                        The 5th round will happen if there is no win in any of the first 4 rounds.
+                        Unclaimed prize money after the first 5 rounds will be added to BAPS reserves and used at the end of year Free Roll Tournament.
+                        Can't win twice.
                     </li>
                 </ul>
             </span>
@@ -112,7 +114,13 @@
                         Side Game: <u>Pot Prize</u>
                     </li>
                     <li style="font-size: smaller;">
-                        Before the first break of the night, the last play at each table will have a prize added to the pot. If there's four tables, then it is 25% each. 3 tables, 33%.
+                        Before the first break of the night, the last play at each table will have a prize added to the pot.
+                        If there's: 
+                        three tables - 33% added, 
+                        four tables - 25% added, 
+                        five tables - 20% added, 
+                        six tables - 16.67% added.
+
                     </li>
                 </ul>
             </span>
@@ -122,9 +130,10 @@
                         Side Game: <u>Face Cards Cracked</u>
                     </li>
                     <li style="font-size: smaller;">
-                        The first player with pocket pairs (JJ, QQ, KK, AA) gets cracked will get the 25% prize.  
-                        Only one loss for each round, four rounds. The 5th round might happen if there is no loss in the fourth round.  
-                        Can't lose twice.
+                        First player with pocket pairs (JJ, QQ, KK, AA) gets cracked will get the 25% prize money for each of the first 4 rounds - reset after every round
+                        The 5th round will happen if there is no win in any of the first 4 rounds.
+                        Can't win prize money twice.
+                        Unclaimed prize money after the first 5 rounds will be added to BAPS reserves and used at the end of year Free Roll Tournament.
                     </li>
                 </ul>
             </span>
