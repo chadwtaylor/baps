@@ -35,7 +35,7 @@
             <h1>BAPS - Season 16</h1>
             <h2>Tournament Schedule - August 2024 to June 2025</h2>
             <br>
-            <span class="">Event 1 – August 10, 2024
+            <span class="completed">Event 1 – August 10, 2024
                 <ul>
                     <li>
                         Side Game: <u>Best Hand</u>
@@ -47,7 +47,7 @@
                 </ul>
             </span>
             <!-- if completed, enter class="completed" -->
-            <span class="">Event 2 – September 7, 2024
+            <span class="next">Event 2 – September 7, 2024
                 <ul>
                     <li>
                         Side Game: <u>Biggest Stack</u>
@@ -153,13 +153,24 @@
         <section class="page clearfix">
             <br />
             <br />
-            <img src="images/season-16/Season15-Champ-Beaver.jpg" />
-            <h1>Congratulations to Season 15 Champion</h1>
+            <img src="images/season-16/season16event1.jpg" />
+            <h1>Congratulations to Season 16, Event #1 Winners</h1>
             <p>
             <div class="left schedule">
-                Jeremy Beaver
+                1st - Mike Sidansky
+                <br />
+                2nd - Matt Anderson
+                <br />
+                3rd - Clark Brooke
+                <br />
+                4th - Nate Dutra
+                <br />
+                5th - Ted Baldwin
             </div>
+            Total players: 23 
             </p>
+            <br />
+            <br />
         </section>
     </section>
     <section id="bottom">
@@ -241,9 +252,9 @@
             <div class="box 3 small">
                 <h2>Tournament Schedule</h2>
                 <h2>Season 16, 2024-25</h2>
-                <span class="">Event 1 – August 10, 2024 - <u>Best Hand</u></span>
+                <span class="completed">Event 1 – August 10, 2024 - <u>Best Hand</u></span>
                 <br>
-                <span class="">Event 2 – September 7, 2024 - <u>Biggest Stack</u></span>
+                <span class="next">Event 2 – September 7, 2024 - <u>Biggest Stack</u></span>
                 <br>
                 <span class="">Event 3 – October 5, 2024 - <u>Bounty Hunter</u></span>
                 <br>
