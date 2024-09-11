@@ -19,17 +19,15 @@
                 <div id="logo"></div>
             </a>
             <nav id="main">
-				<a href="downloads/BAPS-Guidelines-Season16.pdf" target="_blank">Guidelines - Season 16</a>
-                <!--
-                <a href="downloads/season16/baps-season16-event1.pdf" target="_blank">Season 16 - Event 1</a>
-                <a href="downloads/season16/baps-season16-points.pdf" target="_blank">Season 16 Points</a>
-                -->
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
+				<a href="downloads/BAPS-Guidelines-Season16.pdf" target="_blank">Guidelines - Season 16</a>
+                <a href="downloads/season16/baps-season16-event2.pdf" target="_blank">Season 16 - Event 2</a>
+                <a href="downloads/season16/baps-season16-points.pdf" target="_blank">Season 16 Points</a>
             </nav>
         </section>
     </header>
 
-    <section id="bottom">
+    <section id="top">
         <section class="page clearfix">
             <br>
             <h1>BAPS - Season 16</h1>
@@ -47,7 +45,7 @@
                 </ul>
             </span>
             <!-- if completed, enter class="completed" -->
-            <span class="next">Event 2 – September 7, 2024
+            <span class="completed">Event 2 – September 7, 2024
                 <ul>
                     <li>
                         Side Game: <u>Biggest Stack</u>
@@ -58,7 +56,7 @@
                     </li>
                 </ul>
             </span>
-            <span class="">Event 3 – October 5, 2024
+            <span class="next">Event 3 – October 5, 2024
                 <ul>
                     <li>
                         Side Game: <u>Bounty Hunter</u>
@@ -147,6 +145,30 @@
                     </li>
                 </ul>
             </span>
+        </section>
+    </section>
+    <section id="bottom">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-16/season16event2.jpg" />
+            <h1>Congratulations to Season 16, Event #2 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Mike Sidansky
+                <br />
+                2nd - Tristan Boren
+                <br />
+                3rd - Scott O'Donnell
+                <br />
+                4th - Mike Scharnow
+                <br />
+                5th - Matt Anderson
+            </div>
+            Total players: 21 
+            </p>
+            <br />
+            <br />
         </section>
     </section>
     <section id="top">
@@ -254,9 +276,9 @@
                 <h2>Season 16, 2024-25</h2>
                 <span class="completed">Event 1 – August 10, 2024 - <u>Best Hand</u></span>
                 <br>
-                <span class="next">Event 2 – September 7, 2024 - <u>Biggest Stack</u></span>
+                <span class="completed">Event 2 – September 7, 2024 - <u>Biggest Stack</u></span>
                 <br>
-                <span class="">Event 3 – October 5, 2024 - <u>Bounty Hunter</u></span>
+                <span class="next">Event 3 – October 5, 2024 - <u>Bounty Hunter</u></span>
                 <br>
                 <span class="">Event 4 – November 9, 2024 - <u>Full House</u></span>
                 <br>
