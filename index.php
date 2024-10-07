@@ -21,13 +21,13 @@
             <nav id="main">
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 				<a href="downloads/BAPS-Guidelines-Season16.pdf" target="_blank">Guidelines - Season 16</a>
-                <a href="downloads/season16/baps-season16-event2.pdf" target="_blank">Season 16 - Event 2</a>
+                <a href="downloads/season16/baps-season16-event3.pdf" target="_blank">Season 16 - Event 3</a>
                 <a href="downloads/season16/baps-season16-points.pdf" target="_blank">Season 16 Points</a>
             </nav>
         </section>
     </header>
 
-    <section id="top">
+    <section id="bottom">
         <section class="page clearfix">
             <br>
             <h1>BAPS - Season 16</h1>
@@ -56,7 +56,7 @@
                     </li>
                 </ul>
             </span>
-            <span class="next">Event 3 – October 5, 2024
+            <span class="completed">Event 3 – October 5, 2024 - SFDC 12th Annual Tournament
                 <ul>
                     <li>
                         Side Game: <u>Bounty Hunter</u>
@@ -67,7 +67,7 @@
                     </li>
                 </ul>
             </span>
-            <span class="">Event 4 – November 9, 2024
+            <span class="next">Event 4 – November 9, 2024
                 <ul>
                     <li>
                         Side Game: <u>Full House</u>
@@ -145,6 +145,40 @@
                     </li>
                 </ul>
             </span>
+        </section>
+    </section>
+    <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-16/season16event3.jpg" />
+            <h1>Congratulations to Season 16, Event #3 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - David Seto
+                <br />
+                2nd - Ty Kovacs
+                <br />
+                3rd - David Harvey
+                <br />
+                4th - Gabriell Pedroza
+                <br />
+                5th - Ted Baldwin
+                <br />
+                6th - Damira Bechthold
+                <br />
+                7th - Matthew Anderson
+                <br />
+                8th - Adam Jarashow
+                <br />
+                9th - Damien South
+                <br />
+                10th - Darla Holmes
+            </div>
+            Total players: 27
+            </p>
+            <br />
+            <br />
         </section>
     </section>
     <section id="bottom">
@@ -228,7 +262,7 @@
                 <br />
                 2681 Driscoll Road, Fremont, CA
                 <br />
-                <a href="https://www.google.com/maps/preview?q=2681+Driscoll+Road,+Fremont,+CA" target="_blank">MAP</a>
+                <a href="https://maps.app.goo.gl/Brp9jQRSKLA2KVQ27" target="_blank">MAP</a>
                 <br /><br />
                 **DO NOT bring your chair. There are plenty of chairs at FOG.**
                 <br />
@@ -278,9 +312,9 @@
                 <br>
                 <span class="completed">Event 2 – September 7, 2024 - <u>Biggest Stack</u></span>
                 <br>
-                <span class="next">Event 3 – October 5, 2024 - <u>Bounty Hunter</u></span>
+                <span class="completed">Event 3 – October 5, 2024 - <u>Bounty Hunter</u></span>
                 <br>
-                <span class="">Event 4 – November 9, 2024 - <u>Full House</u></span>
+                <span class="next">Event 4 – November 9, 2024 - <u>Full House</u></span>
                 <br>
                 <span class="">Event 5 – February 8, 2025 - <u>Worst Hand</u></span>
                 <br>
