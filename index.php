@@ -9,7 +9,7 @@
         href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,800italic,400,600,700,800'
         rel='stylesheet' type='text/css'>
     <title>Deaf Bay Area Poker Series</title>
-    <meta name="description" content="Deaf Bay Area Poker Series BAPS - poker tournaments for deaf poker players in the Greater Bay Area, California. Anyone is welcome to join as long as the player is Deaf/HoH/CODA/ASL"/>
+    <meta name="description" content="Deaf Bay Area Poker Series BAPS  - DeafBAPS - poker tournaments for deaf poker players in the Greater Bay Area, California. Anyone is welcome to join as long as the player is Deaf/HoH/CODA/ASL"/>
 </head>
 
 <body>
@@ -21,13 +21,13 @@
             <nav id="main">
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 				<a href="downloads/BAPS-Guidelines-Season16.pdf" target="_blank">Guidelines - Season 16</a>
-                <a href="downloads/season16/baps-season16-event3.pdf" target="_blank">Season 16 - Event 3</a>
+                <!--<a href="downloads/season16/baps-season16-event4.pdf" target="_blank">Season 16 - Event 4</a>-->
                 <a href="downloads/season16/baps-season16-points.pdf" target="_blank">Season 16 Points</a>
             </nav>
         </section>
     </header>
 
-    <section id="bottom">
+    <section id="top">
         <section class="page clearfix">
             <br>
             <h1>BAPS - Season 16</h1>
@@ -67,7 +67,7 @@
                     </li>
                 </ul>
             </span>
-            <span class="next">Event 4 – November 9, 2024
+            <span class="completed">Event 4 – November 9, 2024
                 <ul>
                     <li>
                         Side Game: <u>Full House</u>
@@ -80,7 +80,7 @@
                     </li>
                 </ul>
             </span>
-            <span class="">Event 5 – February 8, 2025
+            <span class="next">Event 5 – February 8, 2025
                 <ul>
                     <li>
                         Side Game: <u>Worst Hand</u>
@@ -145,6 +145,30 @@
                     </li>
                 </ul>
             </span>
+        </section>
+    </section>
+    <section id="bottom">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-16/season16event4.jpg" />
+            <h1>Congratulations to Season 16, Event #4 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Jaime Jackerson
+                <br />
+                2nd - Adam Jarashow
+                <br />
+                3rd - Matthew Anderson
+                <br />
+                4th - Gabriell Pedroza
+                <br />
+                5th - Mike Scharnow
+            </div>
+            Total players: 23
+            </p>
+            <br />
+            <br />
         </section>
     </section>
     <section id="top">
@@ -314,9 +338,9 @@
                 <br>
                 <span class="completed">Event 3 – October 5, 2024 - <u>Bounty Hunter</u></span>
                 <br>
-                <span class="next">Event 4 – November 9, 2024 - <u>Full House</u></span>
+                <span class="completed">Event 4 – November 9, 2024 - <u>Full House</u></span>
                 <br>
-                <span class="">Event 5 – February 8, 2025 - <u>Worst Hand</u></span>
+                <span class="next">Event 5 – February 8, 2025 - <u>Worst Hand</u></span>
                 <br>
                 <span class="">Event 6 – March 8, 2025 - <u>Pocket vs Pocket</u></span>
                 <br>
