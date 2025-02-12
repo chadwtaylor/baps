@@ -21,7 +21,7 @@
             <nav id="main">
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 				<a href="downloads/BAPS-Guidelines-Season16.pdf" target="_blank">Guidelines - Season 16</a>
-                <a href="downloads/season16/baps-season16-event4.pdf" target="_blank">Season 16 - Event 4</a>
+                <a href="downloads/season16/baps-season16-event5.pdf" target="_blank">Season 16 - Event 5</a>
                 <a href="downloads/season16/baps-season16-points.pdf" target="_blank">Season 16 Points</a>
             </nav>
         </section>
@@ -80,7 +80,7 @@
                     </li>
                 </ul>
             </span>
-            <span class="next">Event 5 – February 8, 2025
+            <span class="completed">Event 5 – February 8, 2025
                 <ul>
                     <li>
                         Side Game: <u>Worst Hand</u>
@@ -93,7 +93,7 @@
                     </li>
                 </ul>
             </span>
-            <span class="">Event 6 – March 8, 2025
+            <span class="next">Event 6 – March 8, 2025
                 <ul>
                     <li>
                         Side Game: <u>Pocket vs Pocket</u>
@@ -145,6 +145,30 @@
                     </li>
                 </ul>
             </span>
+        </section>
+    </section>
+    <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-16/season16event5.jpg" />
+            <h1>Congratulations to Season 16, Event #5 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Mike Sidansky
+                <br />
+                2nd - Pam Siebert
+                <br />
+                3rd - Malik Amann
+                <br />
+                4th - Tan Nguyen
+                <br />
+                5th - Gabriell Pedroza
+            </div>
+            Total players: 19
+            </p>
+            <br />
+            <br />
         </section>
     </section>
     <section id="bottom">
@@ -320,7 +344,6 @@
                     Darla Holmes,
                     Jaime Jackerson, 
                     Eric Kunze, 
-                    Scott O'Donnell,
                     David Seto, 
                     Pamela Siebert,
                     David Smario
@@ -340,9 +363,9 @@
                 <br>
                 <span class="completed">Event 4 – November 9, 2024 - <u>Full House</u></span>
                 <br>
-                <span class="next">Event 5 – February 8, 2025 - <u>Worst Hand</u></span>
+                <span class="completed">Event 5 – February 8, 2025 - <u>Worst Hand</u></span>
                 <br>
-                <span class="">Event 6 – March 8, 2025 - <u>Pocket vs Pocket</u></span>
+                <span class="next">Event 6 – March 8, 2025 - <u>Pocket vs Pocket</u></span>
                 <br>
                 <span class="">Event 7 – April 5, 2025 - <u>Pot Prize</u></span>
                 <br>
