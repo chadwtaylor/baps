@@ -21,13 +21,13 @@
             <nav id="main">
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 				<a href="downloads/BAPS-Guidelines-Season16.pdf" target="_blank">Guidelines - Season 16</a>
-                <a href="downloads/season16/baps-season16-event6.pdf" target="_blank">Season 16 - Event 6</a>
+                <a href="downloads/season16/baps-season16-event7.pdf" target="_blank">Season 16 - Event 7</a>
                 <a href="downloads/season16/baps-season16-points.pdf" target="_blank">Season 16 Points</a>
             </nav>
         </section>
     </header>
 
-    <section id="top">
+    <section id="bottom">
         <section class="page clearfix">
             <br>
             <h1>BAPS - Season 16</h1>
@@ -106,7 +106,7 @@
                     </li>
                 </ul>
             </span>
-            <span class="next">Event 7 – April 5, 2025
+            <span class="completed">Event 7 – April 5, 2025
                 <ul>
                     <li>
                         Side Game: <u>Pot Prize</u>
@@ -122,7 +122,7 @@
                     </li>
                 </ul>
             </span>
-            <span class="">Event 8 – May 10, 2025
+            <span class="next">Event 8 – May 10, 2025
                 <ul>
                     <li>
                         Side Game: <u>Face Cards Cracked</u>
@@ -145,6 +145,26 @@
                     </li>
                 </ul>
             </span>
+        </section>
+    </section>
+    <section id="top">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-16/season16event7.jpg" />
+            <h1>Congratulations to Season 16, Event #7 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Michael Scharnow
+                <br />
+                2nd - Michael Sidansky
+                <br />
+                3rd - Darla Holmes
+            </div>
+            Total players: 9
+            </p>
+            <br />
+            <br />
         </section>
     </section>
     <section id="bottom">
@@ -389,9 +409,9 @@
                 <br>
                 <span class="completed">Event 6 – March 8, 2025 - <u>Pocket vs Pocket</u></span>
                 <br>
-                <span class="next">Event 7 – April 5, 2025 - <u>Pot Prize</u></span>
+                <span class="completed">Event 7 – April 5, 2025 - <u>Pot Prize</u></span>
                 <br>
-                <span class="">Event 8 – May 10, 2025 - <u>Face Cards Cracked</u></span>
+                <span class="next">Event 8 – May 10, 2025 - <u>Face Cards Cracked</u></span>
                 <br>
                 <span class="">Free Roll – June 14, 2025 - <u>Winner's Choice</u></span>
                 <br>
