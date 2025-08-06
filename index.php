@@ -36,24 +36,24 @@
             <h2>Tournament Schedule - August 2025 to June 2026</h2>
             <br>
             <!-- if completed, enter class="completed" -->
-            <span class="next">Event 1 – August 9, 2025**</span>
+            <span class="next">Event 1 – August 23, 2025</span>
             <br>
-            <span class="">Event 2 – September 13, 2025**</span>
+            <span class="">Event 2 – September 20, 2025</span>
             <br>
-            <span class="">Event 3 – October 11, 2025 - SFDC 13th Annual Tournament**</span>
+            <span class="">Event 3 – October 11, 2025 - SFDC 13th Annual Tournament</span>
             <br>
-            <span class="">Event 4 – November 8, 2025**</span>
+            <span class="">Event 4 – November 8, 2025</span>
             <br>
-            <span class="">Event 5 – February 14, 2026**</span>
+            <span class="">Event 5 – February 14, 2026</span>
             <br>
-            <span class="">Event 6 – March 15, 2026**</span>
+            <span class="">Event 6 – March 14, 2026</span>
             <br>
-            <span class="">Event 7 – April 11, 2026**</span>
+            <span class="">Event 7 – April 11, 2026</span>
             <br>
-            <span class="">Event 8 – May 9, 2026**</span>
+            <span class="">Event 8 – May 9, 2026</span>
             <br>
-            <span class="">Free Roll – June 13, 2026**</span>
-            <br>**Date is tentatively pending based on FOG availability
+            <span class="">Free Roll – June 13, 2026</span>
+            <br>FOG availability approved for all above dates.
         </section>
     </section>
     <section id="top">
@@ -169,24 +169,24 @@
             <div class="box 3 small">
                 <h2>Tournament Schedule</h2>
                 <h2>Season 17, 2025-26</h2>
-                <span class="next">Event 1 – August 9, 2025**</span>
+                <span class="next">Event 1 – August 23, 2025</span>
                 <br>
-                <span class="">Event 2 – September 13, 2025**</span>
+                <span class="">Event 2 – September 20, 2025</span>
                 <br>
-                <span class="">Event 3 – October 11, 2025 - SFDC 13th Annual Tournament**</span>
+                <span class="">Event 3 – October 11, 2025 - SFDC 13th Annual Tournament</span>
                 <br>
-                <span class="">Event 4 – November 8, 2025**</span>
+                <span class="">Event 4 – November 8, 2025</span>
                 <br>
-                <span class="">Event 5 – February 14, 2026**</span>
+                <span class="">Event 5 – February 14, 2026</span>
                 <br>
-                <span class="">Event 6 – March 15, 2026**</span>
+                <span class="">Event 6 – March 14, 2026</span>
                 <br>
-                <span class="">Event 7 – April 11, 2026**</span>
+                <span class="">Event 7 – April 11, 2026</span>
                 <br>
-                <span class="">Event 8 – May 9, 2026**</span>
+                <span class="">Event 8 – May 9, 2026</span>
                 <br>
-                <span class="">Free Roll – June 13, 2026**</span>
-                <br>**Date is tentatively pending based on FOG availability
+                <span class="">Free Roll – June 13, 2026</span>
+                <br>FOG availability approved for all above dates.
             </div>
 
         </section>
