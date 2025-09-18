@@ -21,10 +21,8 @@
             <nav id="main">
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 				<a href="downloads/BAPS-Guidelines-Season16.pdf" target="_blank">Guidelines - Season 16</a>
-                <!--
-                <a href="downloads/season16/baps-season17-event1.pdf" target="_blank">Season 17 - Event 1</a>
-                <a href="downloads/season16/baps-season17-points.pdf" target="_blank">Season 17 Points</a>
-                -->
+                <a href="downloads/season17/baps-season17-event1.pdf" target="_blank">Season 17 - Event 1</a>
+                <a href="downloads/season17/baps-season17-points.pdf" target="_blank">Season 17 Points</a>
             </nav>
         </section>
     </header>
