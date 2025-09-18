@@ -21,8 +21,10 @@
             <nav id="main">
                 <a href="http://eepurl.com/n5HGH" target="_blank">Subscribe to BAPS</a>
 				<a href="downloads/BAPS-Guidelines-Season16.pdf" target="_blank">Guidelines - Season 16</a>
-                <a href="downloads/season17/baps-season17-event1.pdf" target="_blank">Season 17 - Event 1</a>
-                <a href="downloads/season17/baps-season17-points.pdf" target="_blank">Season 17 Points</a>
+                <!--
+                <a href="downloads/season16/baps-season17-event1.pdf" target="_blank">Season 17 - Event 1</a>
+                <a href="downloads/season16/baps-season17-points.pdf" target="_blank">Season 17 Points</a>
+                -->
             </nav>
         </section>
     </header>
@@ -34,9 +36,9 @@
             <h2>Tournament Schedule - August 2025 to June 2026</h2>
             <br>
             <!-- if completed, enter class="completed" -->
-            <span class="completed">Event 1 – August 23, 2025</span>
+            <span class="next">Event 1 – August 23, 2025</span>
             <br>
-            <span class="next">Event 2 – September 20, 2025</span>
+            <span class="">Event 2 – September 20, 2025</span>
             <br>
             <span class="">Event 3 – October 11, 2025 - SFDC 13th Annual Tournament</span>
             <br>
@@ -58,28 +60,6 @@
         <section class="page clearfix">
             <br />
             <br />
-            <img src="images/season-17/season17event1.jpg" />
-            <h1>Congratulations to Season 17, Event #1 Winners</h1>
-            <p>
-            <div class="left schedule">
-                1st - Eric Kunze
-                <br />
-                2nd - Mike Sidansky
-                <br />
-                3rd - Adam Jarashow
-                <br />
-                4th - Ted Baldwin
-            </div>
-            Total players: 17
-            </p>
-            <br />
-            <br />
-        </section>
-    </section>
-    <section id="bottom">
-        <section class="page clearfix">
-            <br />
-            <br />
             <img src="images/season-17/season16champSidansky.png" />
             <h1>Congratulations to Season 16 Champion</h1>
             <p>
@@ -89,7 +69,29 @@
             </p>
         </section>
     </section>
-    <section id="top">
+    <!--
+    <section id="bottom">
+        <section class="page clearfix">
+            <br />
+            <br />
+            <img src="images/season-16/season16event8.jpg" />
+            <h1>Congratulations to Season 16, Event #8 Winners</h1>
+            <p>
+            <div class="left schedule">
+                1st - Malik Amann
+                <br />
+                2nd - Adam Jarashow
+                <br />
+                3rd - Darla Holmes
+            </div>
+            Total players: 9
+            </p>
+            <br />
+            <br />
+        </section>
+    </section>
+-->
+    <section id="bottom">
         <section class="page clearfix">
             <br />
             <br />
@@ -131,7 +133,7 @@
             <br />
         </section>
     </section>
-    <section id="bottom">
+    <section id="top">
         <section class="page clearfix">
             <div class="box 1">
                 <h2>Welcome</h2>
@@ -167,9 +169,9 @@
             <div class="box 3 small">
                 <h2>Tournament Schedule</h2>
                 <h2>Season 17, 2025-26</h2>
-                <span class="completed">Event 1 – August 23, 2025</span>
+                <span class="next">Event 1 – August 23, 2025</span>
                 <br>
-                <span class="next">Event 2 – September 20, 2025</span>
+                <span class="">Event 2 – September 20, 2025</span>
                 <br>
                 <span class="">Event 3 – October 11, 2025 - SFDC 13th Annual Tournament</span>
                 <br>
